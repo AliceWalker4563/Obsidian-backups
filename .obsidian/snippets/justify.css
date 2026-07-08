@@ -1,0 +1,6 @@
+
+.markdown-rendered p,
+.cm-line {
+    text-align: justify;
+    hyphens: auto; 
+}

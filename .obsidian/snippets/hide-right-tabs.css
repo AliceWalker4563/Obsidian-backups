@@ -1,0 +1,4 @@
+/* Hide tab headers (icons and names) in the right sidebar */
+.mod-right-split .workspace-tab-header-container {
+    display: none !important;
+}

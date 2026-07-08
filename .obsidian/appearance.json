@@ -1,1 +1,13 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "hide-right-tabs",
+    "justify"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
+}
