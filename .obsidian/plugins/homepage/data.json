@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "staff-only/homepage",
+      "value": "staff-only/pages/homepage",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Keep open notes",
