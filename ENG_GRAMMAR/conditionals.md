@@ -50,7 +50,9 @@ Use to talk about hypothetical present truth or ongoing event that alters an eve
 
 *If all humans were altruistic, we would have eradicated poverty decades ago.*
 
+
+
 ---
-[^1]: There is no comma in reversed order of clauses:
+There is no comma in reversed order of clauses:
 	*if-clause, result-clause*
 	*result-clause if-clause*
