@@ -1,11 +1,6 @@
 Serenity 
-Stark contrast 
-Under a veil of secrecy 
-Lion's share of 
+Stark 
 At the very least 
-Thanks to the X we Y
-What is it about X that Y
-A great deal of the X
 Govern
 Innate 
 So far
@@ -17,7 +12,6 @@ Sincere
 Sincerely 
 Mundane 
 Daunting 
-Crop
 Stumble 
 Accusation 
 Lucrative 

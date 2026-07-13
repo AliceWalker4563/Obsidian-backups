@@ -38,8 +38,8 @@
   "minimal-style@@hl1@@dark": "#E2DFC038",
   "minimal-style@@tx2@@dark": "#B5B187",
   "minimal-style@@tx3@@dark": "#5F5D48",
-  "minimal-style@@italic-color@@dark": "#A6BD86",
-  "minimal-style@@bold-color@@dark": "#A6BD86",
+  "minimal-style@@italic-color@@dark": "#667551",
+  "minimal-style@@bold-color@@dark": "#667551",
   "minimal-style@@window-title-off": false,
   "minimal-style@@metadata-heading-off": false,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
@@ -47,5 +47,7 @@
   "minimal-style@@vault-profile-display": "vault-profile-default",
   "minimal-style@@hide-help": true,
   "minimal-style@@ribbon-style": "ribbon-hidden",
-  "minimal-style@@tabs-style": "tabs-default"
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@heading-spacing": "1.5em",
+  "minimal-style@@checkbox-shape": "checkbox-square"
 }
