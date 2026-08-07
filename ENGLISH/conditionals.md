@@ -1,4 +1,4 @@
-# Zero conditional
+# Zero Conditional
 
 IF  V1,  V1   (general statements | without time at all)
 
@@ -6,7 +6,7 @@ Use to state truth, scientific facts, 100% certain cause-and-effect relationship
 
 *If a sentient being feels pain, it suffers. If a protein has a chain of ubiquitins attached to it, proteasome decomposes it.*
 
-# First conditional
+# First Conditional
 
 IF  V1, will/should/can/might + V   (present condition ---> future result)
 
@@ -14,7 +14,7 @@ Use to describe possible future events, realistic outcomes of actions.
 
 *If you start doing a new thing today, you will see results very soon. If a cat meows at me, i will pet it.*
 
-# Second conditional
+# Second Conditional
 
 IF  V2, would + V   (present condition ---> future/present result)
 to be ---> were
@@ -23,7 +23,7 @@ Use to discuss hypothetical, imaginary or unlikely situations in the future or p
 
 *If i were sorry, it would be a different story. If we engineered crops to perform C4 photosynthesis, we could increase crop yields by 50%.* 
 
-# Third conditional
+# Third Conditional
 
 IF had + V3, would have + V3    (past condition ---> past result)
 
@@ -31,7 +31,7 @@ Use to describe imaginary event in the past that did not happen (and its possibl
 
 *If you had bought a silly cat image in 2019, you would have been rich in 2020. If I had been born in another country, I would have become an activist.*
 
-# Mixed conditionals
+# Mixed Conditionals
 
 ### Type I
 

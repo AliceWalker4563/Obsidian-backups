@@ -47,4 +47,15 @@ intricacy
 Deceptively
 breadth
 mere
+therefore
+thus
+i.e.
+etc.
+e.g.
+furthermore
+hence
+meanwhile
+moreover
+nevertheless
+nonetheless
 
