@@ -27,16 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words-for-cards.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "words-for-cards"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "abb3c4071b8fe5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "84067c13f62dbe3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staff-only/pages/homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
             }
           },
           {
             "id": "bff63aaa4e8c3fcc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "29ebc4c2c1814734",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +104,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -130,7 +170,8 @@
       }
     ],
     "currentTab": 0,
-    "pinned": true
+    "pinned": true,
+    "pinnedSize": 191.677734375
   },
   "right": {
     "id": "515924a1b032cda6",
@@ -142,7 +183,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "practice1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -209,9 +249,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "f0d49a0a6448b79b",
+  "active": "84067c13f62dbe3f",
   "lastOpenFiles": [
     "Untitled.md",
+    "staff-only/pages/homepage.md",
     "practice-lecture1.md",
     "practice1.md",
     "staff-only/homepage.md",
