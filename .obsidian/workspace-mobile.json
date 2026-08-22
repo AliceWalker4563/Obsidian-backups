@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/homepage.md",
+                "file": "ENGLISH/comma-rules.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "comma-rules"
             }
           },
           {
@@ -170,7 +170,6 @@
       }
     ],
     "currentTab": 0,
-    "pinned": true,
     "pinnedSize": 191.677734375
   },
   "right": {
@@ -183,6 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "staff-only/pages/homepage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,8 +228,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -251,8 +251,9 @@
   },
   "active": "84067c13f62dbe3f",
   "lastOpenFiles": [
-    "Untitled.md",
     "staff-only/pages/homepage.md",
+    "HISTOLOGY/3. Покровные эпителии.md",
+    "Untitled.md",
     "practice-lecture1.md",
     "practice1.md",
     "staff-only/homepage.md",
