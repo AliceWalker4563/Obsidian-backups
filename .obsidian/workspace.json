@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1d59a683745743dd",
+        "id": "9142a8f4b341372c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a537084ff8bca78",
+            "id": "84291104c9a800b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/homepage.md",
+                "file": "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "8849a67fd296d169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTOLOGY/3. Покровные эпителии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Покровные эпителии"
+              "title": "3. Осморегулирующие и выделительные эпителии"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,51 +251,53 @@
       "widgets:Add widget": false
     }
   },
-  "active": "8849a67fd296d169",
+  "active": "84291104c9a800b2",
   "lastOpenFiles": [
     "staff-only/pages/todo.md",
-    "HISTOLOGY/3. Покровные эпителии.md",
-    "staff-only/excalidrawings/Drawing 2026-08-15 09.13.32.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-15 09.13.32.excalidraw.png",
-    "staff-only/excalidrawings/Drawing 2026-08-15 08.05.32.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-15 08.05.32.excalidraw.png",
-    "staff-only/pics/Drawing 2026-08-14 18.48.14.excalidraw.png",
-    "staff-only/pages/table.md",
-    "staff-only/pages/homepage.md",
-    "staff-only/excalidrawings/Drawing 2026-08-14 18.48.14.excalidraw.md",
-    "HISTOLOGY/2. Эпителии общее.md",
-    "HISTOLOGY/4. Кишечные эпителии.md",
-    "HISTOLOGY/6. Железистые эпителии.md",
-    "HISTOLOGY/5. Осморегулирующие и выделительные эпителии.md",
-    "staff-only/excalidrawings/Drawing 2026-08-14 18.14.06.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-14 18.14.06.excalidraw.png",
-    "HISTOLOGY/1. Ткани.md",
-    "staff-only/excalidrawings/Drawing 2026-08-14 09.24.25.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-14 09.24.25.excalidraw.png",
+    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
     "staff-only/navigation/HISTOLOGY.md",
-    "staff-only/excalidrawings/Drawing 2026-08-14 08.56.25.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-14 08.56.25.excalidraw.png",
-    "staff-only/excalidrawings/Drawing 2026-08-13 13.25.45.excalidraw.md",
-    "staff-only/pics/Drawing 2026-08-13 13.25.45.excalidraw.png",
-    "staff-only/pics/Pasted image 20260813131748.png",
-    "staff-only/pics/Pasted image 20260813131607.png",
-    "staff-only/pics/Pasted image 20260813131548.png",
-    "ENGLISH/words-for-anki.md",
-    "ENGLISH/semicolon-rules.md",
-    "staff-only/navigation/ENGLISH.md",
-    "Drawing 2026-08-12 19.01.03.excalidraw.md",
-    "ENGLISH/comma-rules.md",
-    "staff-only/excalidrawings/Drawing 2026-08-06 12.33.29.excalidraw.md",
-    "staff-only/excalidrawings/Drawing 2026-08-06 11.39.39.excalidraw.md",
-    "staff-only/excalidrawings/Drawing 2026-08-06 10.26.22.excalidraw.md",
+    "HISTOLOGY/2. Иммунитет.md",
+    "HISTOLOGY/1. Заварзин, Хлопин и др.md",
+    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
+    "HISTOLOGY/3. Мышечные ткани/0. Мышечные ткани.md",
+    "HISTOLOGY/4. Нервная ткань",
+    "HISTOLOGY/2. Ткани внутренней среды/7. Кость.md",
+    "HISTOLOGY/3. Мышечные ткани",
+    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
+    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
+    "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
+    "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, паренхима, зародышевая мезенхима.md",
+    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
+    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
+    "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
+    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
+    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
+    "HISTOLOGY/1. Эпителии/1. Покровные эпителии.md",
+    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
+    "HISTOLOGY/0. Ткани.md",
+    "HISTOLOGY/2. Ткани внутренней среды",
+    "HISTOLOGY/1. Эпителии",
+    "staff-only/pages/table.md",
+    "staff-only/еxcalidrawings/Drawing 2026-08-21 11.09.00.excalidraw.md",
+    "staff-only/рics/Drawing 2026-08-21 11.09.00.excalidraw.png",
+    "staff-only/еxcalidrawings/Drawing 2026-08-21 07.21.25.excalidraw.md",
+    "staff-only/рics/Drawing 2026-08-21 07.21.25.excalidraw.png",
+    "Drawing 2026-08-16 08.16.02.excalidraw.md",
+    "staff-only/pages/homepage.md",
+    "staff-only/еxcalidrawings/Drawing 2026-08-16 07.03.02.excalidraw.md",
+    "staff-only/рics/Drawing 2026-08-16 07.03.02.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-15 09.13.32.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-15 08.05.32.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-14 18.48.14.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-14 18.14.06.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-14 09.24.25.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-14 08.56.25.excalidraw.png",
+    "staff-only/рics/Drawing 2026-08-13 13.25.45.excalidraw.png",
     "staff-only/navigation",
     "MATH",
-    "staff-only/excalidrawings",
+    "staff-only/еxcalidrawings",
     "ENGLISH",
     "staff-only/pages",
-    "staff-only/events",
-    "staff-only/pics",
-    "staff-only",
-    "Untitled.base"
+    "staff-only/events"
   ]
 }
