@@ -2,7 +2,7 @@
 
 
 
-- [x] First cycle
+- [ ] First cycle
 - [ ] Second cycle 
 - [ ] Third cycle
 - [ ] Fourth cycle
