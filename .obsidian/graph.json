@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:ENGLISH",
-      "color": {
-        "a": 1,
-        "rgb": 4357185
-      }
-    },
-    {
       "query": "file:HISTOLOGY",
       "color": {
         "a": 1,
@@ -34,9 +27,23 @@
         "a": 1,
         "rgb": 5431439
       }
+    },
+    {
+      "query": "file:BIOPHYSICS",
+      "color": {
+        "a": 1,
+        "rgb": 5415904
+      }
+    },
+    {
+      "query": "file:ENGLISH",
+      "color": {
+        "a": 1,
+        "rgb": 3775802
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.13052658850962,
@@ -46,6 +53,6 @@
   "repelStrength": 13.0218068535826,
   "linkStrength": 0.583392706781527,
   "linkDistance": 122,
-  "scale": 0.32133638605035614,
+  "scale": 0.2601697430949933,
   "close": true
 }

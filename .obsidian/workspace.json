@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fb9a6abe73053b8",
+            "id": "2582f54c9181e1bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/homepage.md",
+                "file": "HISTOLOGY/2. Ткани внутренней среды/7. Кость.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "b7d04180690fd72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MICROBIOLOGY/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "7. Кость"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,53 +251,52 @@
       "widgets:Add widget": false
     }
   },
-  "active": "6c69bc4cf0dd2323",
+  "active": "2582f54c9181e1bb",
   "lastOpenFiles": [
+    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7. Кость.md",
+    "staff-only/pages/todo.md",
+    "staff-only/еvents/19.09.2026.md",
+    "staff-only/рics/Pasted image 20260903170348.png",
+    "staff-only/рics/Pasted image 20260903170304.png",
+    "HISTOLOGY/1. Эпителии/1. Покровные эпителии.md",
+    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
+    "HISTOLOGY/0. Ткани.md",
+    "HISTOLOGY/1. Заварзин, Хлопин и др.md",
+    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
+    "staff-only/navigation/BIOPHYSICS.md",
+    "BIOPHYSICS/0. Введение.md",
+    "BIOPHYSICS/1. Термодинамика биологических процессов.md",
+    "0. Requirements.md",
+    "staff-only/pages/homepage.md",
+    "BIOPHYSICS",
+    "staff-only/pages/table.md",
+    "PLANT PHYSIOLOGY/0. Введение.md",
     "MICROBIOLOGY/Introduction.md",
+    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
+    "README.md",
     "staff-only/navigation/MICROBIOLOGY.md",
-    "PLANT PHYSIOLOGY/Introduction.md",
     "MICROBIOLOGY",
     "staff-only/navigation/PLANT PHYSIOLOGY.md",
-    "staff-only/pages/homepage.md",
     "PLANT PHYSIOLOGY",
-    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
-    "staff-only/pages/table.md",
-    "staff-only/pages/todo.md",
-    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
     "staff-only/рics/htmlconvd-OCQWbz_html_9ed7117d9eb034a8.jpg",
     "staff-only/рics/htmlconvd-WIOMLG_html_14144b847a222ac6.png",
     "staff-only/рics/Picture2.jpg",
     "HISTOLOGY/Невошедшие вопросы.md",
     "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
-    "MATH/linear-algebra.md",
+    "staff-only/MATH/linear-algebra.md",
     "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, мезохиль, паренхима, зародышевая мезенхима.md",
-    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
-    "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
-    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
-    "HISTOLOGY/1. Эпителии/1. Покровные эпителии.md",
-    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
-    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
     "staff-only/рics/Untitled 1.png",
     "Untitled.png",
-    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
-    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
-    "staff-only/еxcalidrawings/Drawing 2026-08-22 12.29.49.excalidraw.md",
     "staff-only/рics/Drawing 2026-08-22 12.29.49.excalidraw.png",
-    "staff-only/navigation/HISTOLOGY.md",
-    "HISTOLOGY/2. Иммунитет.md",
-    "HISTOLOGY/1. Заварзин, Хлопин и др.md",
-    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
     "HISTOLOGY/4. Нервная ткань",
     "HISTOLOGY/3. Мышечные ткани",
     "HISTOLOGY/2. Ткани внутренней среды",
     "HISTOLOGY/1. Эпителии",
     "staff-only/рics/Drawing 2026-08-21 11.09.00.excalidraw.png",
     "staff-only/рics/Drawing 2026-08-21 07.21.25.excalidraw.png",
-    "staff-only/рics/Drawing 2026-08-16 07.03.02.excalidraw.png",
-    "staff-only/рics/Drawing 2026-08-15 09.13.32.excalidraw.png",
     "staff-only/navigation",
-    "MATH",
-    "staff-only/еxcalidrawings",
-    "ENGLISH"
+    "staff-only/MATH",
+    "staff-only/еxcalidrawings"
   ]
 }

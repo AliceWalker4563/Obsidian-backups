@@ -2,9 +2,9 @@
 
 
 
-- [ ] First cycle
-- [ ] Second cycle 
-- [ ] Third cycle
-- [ ] Fourth cycle
-- [ ] It's time to mleeem
+- [x] First cycle
+- [x] Second cycle 
+- [x] Third cycle
+- [x] Fourth cycle
+- [x] It's time to mleeem
 - [ ] Bonus mlemiscus
