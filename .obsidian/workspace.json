@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fb9a6abe73053b8",
+            "id": "475730dc39069dd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/homepage.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "b7d04180690fd72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MICROBIOLOGY/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,53 +247,53 @@
       "widgets:Add widget": false
     }
   },
-  "active": "6c69bc4cf0dd2323",
+  "active": "b23df3b5d7fc69ec",
   "lastOpenFiles": [
-    "MICROBIOLOGY/Introduction.md",
-    "staff-only/navigation/MICROBIOLOGY.md",
-    "PLANT PHYSIOLOGY/Introduction.md",
-    "MICROBIOLOGY",
-    "staff-only/navigation/PLANT PHYSIOLOGY.md",
-    "staff-only/pages/homepage.md",
-    "PLANT PHYSIOLOGY",
-    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
+    "Untitled.md",
     "staff-only/pages/table.md",
+    "staff-only/tasks",
     "staff-only/pages/todo.md",
-    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
-    "staff-only/рics/htmlconvd-OCQWbz_html_9ed7117d9eb034a8.jpg",
-    "staff-only/рics/htmlconvd-WIOMLG_html_14144b847a222ac6.png",
-    "staff-only/рics/Picture2.jpg",
-    "HISTOLOGY/Невошедшие вопросы.md",
-    "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
-    "MATH/linear-algebra.md",
-    "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, мезохиль, паренхима, зародышевая мезенхима.md",
-    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
+    "staff-only/pages/homepage.md",
+    "HISTOLOGY/3. Мышечные ткани/0. Мышечные ткани.md",
+    "BIOPHYSICS/1. Термодинамика биологических процессов.md",
+    "staff-only/navigation/NEUROPHYSIOLOGY.md",
+    "staff-only/navigation/PLANT PHYSIOLOGY.md",
+    "staff-only/navigation/NEUROBIOLOGY.md",
+    "staff-only/рics/Pasted image 20260906112352.png",
     "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
-    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
     "HISTOLOGY/1. Эпителии/1. Покровные эпителии.md",
-    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
-    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
-    "staff-only/рics/Untitled 1.png",
-    "Untitled.png",
     "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
-    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
-    "staff-only/еxcalidrawings/Drawing 2026-08-22 12.29.49.excalidraw.md",
-    "staff-only/рics/Drawing 2026-08-22 12.29.49.excalidraw.png",
+    "staff-only/pages/pic.md",
+    "staff-only/pages/git.md",
+    "staff-only/рics/Picture1 1.png",
+    "staff-only/рics/Picture1.png",
+    "HISTOLOGY/0. Ткани.md",
+    "staff-only/рics/Drawing 2026-09-05 15.39.50.excalidraw.png",
+    "staff-only/еxcalidrawings/Drawing 2026-09-05 15.39.50.excalidraw.md",
+    "HISTOLOGY/Невошедшие вопросы.md",
     "staff-only/navigation/HISTOLOGY.md",
-    "HISTOLOGY/2. Иммунитет.md",
-    "HISTOLOGY/1. Заварзин, Хлопин и др.md",
-    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7.1. Кость.md",
+    "tasks-global.md",
+    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
+    "BIOPHYSICS/0. Введение.md",
+    "NEUROBIOLOGY/0. История нейробиологии.md",
+    "MICROBIOLOGY/Introduction.md",
+    "staff-only/0. Requirements.md",
+    "staff-only/рics/IMG_20260904_155157.jpg",
+    "staff-only/рics/IMG_20260904_155228.jpg",
+    "staff-only/рics/IMG_20260904_154813.jpg",
+    "NEUROPHYSIOLOGY",
+    "MOLECULAR BIOLOGY",
+    "NEUROBIOLOGY",
+    "staff-only/рics/Pasted image 20260903170348.png",
+    "staff-only/рics/Pasted image 20260903170304.png",
+    "BIOPHYSICS",
+    "MICROBIOLOGY",
+    "PLANT PHYSIOLOGY",
+    "staff-only/рics/htmlconvd-OCQWbz_html_9ed7117d9eb034a8.jpg",
     "HISTOLOGY/4. Нервная ткань",
     "HISTOLOGY/3. Мышечные ткани",
-    "HISTOLOGY/2. Ткани внутренней среды",
-    "HISTOLOGY/1. Эпителии",
-    "staff-only/рics/Drawing 2026-08-21 11.09.00.excalidraw.png",
-    "staff-only/рics/Drawing 2026-08-21 07.21.25.excalidraw.png",
-    "staff-only/рics/Drawing 2026-08-16 07.03.02.excalidraw.png",
-    "staff-only/рics/Drawing 2026-08-15 09.13.32.excalidraw.png",
-    "staff-only/navigation",
-    "MATH",
-    "staff-only/еxcalidrawings",
-    "ENGLISH"
+    "HISTOLOGY/2. Ткани внутренней среды"
   ]
 }
