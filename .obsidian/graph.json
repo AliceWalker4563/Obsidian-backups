@@ -41,6 +41,27 @@
         "a": 1,
         "rgb": 3775802
       }
+    },
+    {
+      "query": "file:MOLECULAR BIOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 12148589
+      }
+    },
+    {
+      "query": "file:NEUROBIOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "file:NEUROPHYSIOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 6307600
+      }
     }
   ],
   "collapse-display": true,
@@ -48,11 +69,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.13052658850962,
   "lineSizeMultiplier": 1.00865341019496,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.628991514994495,
   "repelStrength": 13.0218068535826,
-  "linkStrength": 0.583392706781527,
+  "linkStrength": 0.794805363041648,
   "linkDistance": 122,
-  "scale": 0.2601697430949933,
+  "scale": 0.23151273499111072,
   "close": true
 }

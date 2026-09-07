@@ -49,5 +49,6 @@
   "minimal-style@@ribbon-style": "ribbon-hidden",
   "minimal-style@@tabs-style": "tabs-default",
   "minimal-style@@heading-spacing": "1.5em",
-  "minimal-style@@checkbox-shape": "checkbox-square"
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@pdf-invert-dark": false
 }
