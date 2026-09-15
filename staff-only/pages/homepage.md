@@ -36,10 +36,10 @@ hideSeconds: true
 %% col-start %%
 %% col-break:b:red-soft,bc:red,sb:1 %%
 #### *Urgent+Important*
-- [ ] 0
+- [ ]
 %% col-break:b:orange-soft,bc:orange,sb:1 %%
 #### *Urgent+Not important*
-- [ ] 0
+- [ ] Микробиология_дз
 %% col-end %%
 %% col-start %%
 %% col-break:b:yellow-soft,bc:yellow,sb:1 %%
@@ -49,4 +49,5 @@ hideSeconds: true
 #### *Not urgent+Not important*
 - [ ] [[1. Сенсорные системы|Physiology note into paper]]
 - [ ] [[1. Термодинамика биологических процессов|Biophysics note finish]]
+- [ ] All main subjects catch up
 %% col-end %%
