@@ -120,6 +120,62 @@
             }
           },
           {
+            "id": "761e4fcefbe94437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "376d729bea29906c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "8a4c66546d7414dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f837d1a52da4684b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "bff63aaa4e8c3fcc",
             "type": "leaf",
             "state": {
@@ -158,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -319,33 +375,53 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e44cd91a7b3ad6f2",
+  "active": "376d729bea29906c",
   "lastOpenFiles": [
-    "Untitled.md",
     "staff-only/pages/homepage.md",
-    "tasks",
+    "Untitled 2.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "staff-only/рics/Picture1.png",
+    "staff-only/рics/Picture1 1.png",
+    "staff-only/рics/Pasted image 20260906112352.png",
+    "staff-only/рics/Pasted image 20260903170348.png",
+    "staff-only/рics/Pasted image 20260903170304.png",
+    "staff-only/рics/IMG_20260904_155228.jpg",
+    "staff-only/рics/IMG_20260904_155157.jpg",
+    "staff-only/рics/IMG_20260904_154813.jpg",
+    "staff-only/рics/Drawing 2026-09-05 15.39.50.excalidraw.png",
+    "staff-only/еxcalidrawings/Drawing 2026-09-05 15.39.50.excalidraw.md",
+    "staff-only/еvents/19.09.2026.md",
+    "staff-only/еvents",
+    "staff-only/navigation/NEUROPHYSIOLOGY.md",
+    "staff-only/navigation/NEUROBIOLOGY.md",
+    "staff-only/navigation/MOLECULAR BIOLOGY.md",
+    "staff-only/navigation/BIOPHYSICS.md",
+    "staff-only/MATH/linear-algebra.md",
+    "staff-only/MATH",
+    "staff-only/ENGLISH/words-for-anki.md",
+    "staff-only/ENGLISH/the-rules.md",
+    "staff-only/ENGLISH/semicolon-rules.md",
+    "staff-only/ENGLISH/punctuation-marks.md",
+    "staff-only/ENGLISH/conditionals.md",
+    "staff-only/ENGLISH/comma-rules.md",
+    "staff-only/ENGLISH",
+    "staff-only/0. Requirements.md",
+    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
+    "NEUROPHYSIOLOGY",
+    "NEUROBIOLOGY/0. История нейробиологии.md",
+    "NEUROBIOLOGY",
+    "MOLECULAR BIOLOGY/0. Введение.md",
+    "MOLECULAR BIOLOGY",
+    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7.1. Кость.md",
+    "BIOPHYSICS/1. Термодинамика биологических процессов.md",
+    "BIOPHYSICS/0. Введение.md",
+    "BIOPHYSICS",
+    "tasks",
     "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
-    "ENGLISH/comma-rules.md",
-    "HISTOLOGY/3. Покровные эпителии.md",
-    "practice-lecture1.md",
-    "practice1.md",
-    "staff-only/homepage.md",
-    "staff-only/todo.md",
     "staff-only/pics/7d4a606c-a8e9-4090-b197-9a2d582b6ed5.jpeg",
-    "IMG_20260709_155243.jpg",
-    "2816b030-e5e3-4ef5-8c87-727f1056cafb.jpeg",
-    "57fdea41-452d-4437-a5a8-e94cdd7b0156 1.jpeg",
-    "57fdea41-452d-4437-a5a8-e94cdd7b0156.jpeg",
-    "4bee83a8-04d1-4e5a-88d5-864d0e4552e0.jpeg",
-    "words-for-cards.md",
-    "staff-only/git.md",
-    "staff-only/pic.md",
-    "HISTOLOGY/Эпителии.md",
-    "HISTOLOGY/Ткани.md",
     "HISTOLOGY",
-    "Practice2.md",
-    "pics",
-    "Studying /Practice3.md"
+    "pics"
   ]
 }
