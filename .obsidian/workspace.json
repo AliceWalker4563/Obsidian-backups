@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9fb7ea3ddb8f974",
+            "id": "67b9c6dac8d8cee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
+                "file": "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Кишечные эпителии"
+              "title": "7.2. Чешуя и зубы"
             }
           },
           {
-            "id": "3ebf2a5e039b4813",
+            "id": "c6de01b682dd20d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTOLOGY/4. Нервная ткань/1. Органы чувств.md",
-                "mode": "preview",
+                "file": "staff-only/pages/table.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Органы чувств"
+              "title": "table"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,47 +266,47 @@
       "widgets:Add widget": false
     }
   },
-  "active": "b9fb7ea3ddb8f974",
+  "active": "c6de01b682dd20d2",
   "lastOpenFiles": [
-    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
-    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
-    "HISTOLOGY/4. Нервная ткань/1. Органы чувств.md",
-    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
-    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
-    "staff-only/pages/homepage.md",
     "Untitled.md",
-    "staff-only/рics/connective.txt",
+    "Drawing 2026-09-18 14.55.56.excalidraw.md",
     "staff-only/pages/table.md",
+    "staff-only/pages/homepage.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
+    "HISTOLOGY/4. Нервная ткань/1. Органы чувств.md",
+    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
+    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
+    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
+    "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
+    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
+    "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, мезохиль, паренхима, зародышевая мезенхима.md",
+    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
+    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
+    "HISTOLOGY/0. Общие вопросы/1. Заварзин, Хлопин и др.md",
+    "HISTOLOGY/0. Общие вопросы/0. Ткани.md",
+    "HISTOLOGY/2. Ткани внутренней среды/7.1. Кость.md",
+    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
+    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
     "staff-only/pages/todo.md",
+    "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
+    "HISTOLOGY/0. Общие вопросы/2. Иммунитет.md",
+    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
+    "staff-only/рics/Pasted image 20260918121530.png",
+    "HISTOLOGY/0. Общие вопросы/Невошедшие вопросы.md",
+    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
+    "staff-only/рics/connective.txt",
     "staff-only/рics/Pasted image 20260915154719.png",
     "staff-only/рics/Pasted image 20260915143015.png",
     "staff-only/рics/Pasted image 20260915140650.png",
     "staff-only/tasks/Микробиология_дз.md",
-    "staff-only/tasks/Генетика_дз.md",
     "staff-only/рics/Pasted image 20260913162212.png",
-    "staff-only/navigation/HISTOLOGY.md",
-    "staff-only/еxcalidrawings/Drawing 2026-09-12 13.48.00.excalidraw.md",
     "staff-only/рics/Drawing 2026-09-12 13.48.00.excalidraw.png",
     "staff-only/рics/Pasted image 20260912131516.png",
-    "HISTOLOGY/3. Мышечные ткани/0. Мышечные ткани.md",
-    "HISTOLOGY/0. Общие вопросы/2. Иммунитет.md",
-    "HISTOLOGY/0. Общие вопросы/1. Заварзин, Хлопин и др.md",
-    "NEUROBIOLOGY/1. Строение нейронов.md",
-    "NEUROBIOLOGY/0. История нейробиологии.md",
-    "GENETICS/0. Введение и история.md",
-    "GENETICS/0. Введение.md",
-    "staff-only/рics/genetics_notes_corrected.md",
-    "APPLIED NEUROBIOLOGY/1. Методы.md",
-    "staff-only/0. Requirements.md",
     "staff-only/рics/Pasted image 20260910103051.png",
     "staff-only/рics/Pasted image 20260910101750.png",
     "staff-only/рics/Pasted image 20260910100844.png",
-    "staff-only/рics/Pasted image 20260910100825.png",
-    "staff-only/navigation/APPLIED NEUROBIOLOGY.md",
     "APPLIED NEUROBIOLOGY",
-    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
     "HISTOLOGY/0. Общие вопросы",
-    "пищеварительную, защитную и выделительную. Внутри организма есть ткани, никак не соприкасающиеся со внешней средой - это [[0. Ткани внутренней среды общее.md",
     "GENETICS",
     "staff-only/tasks",
     "NEUROPHYSIOLOGY",
