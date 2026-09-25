@@ -33,5 +33,5 @@
     "editor:configure-toolbar",
     "editor:insert-table"
   ],
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "visible"
 }

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "f61037b8ba7abf9f",
+    "id": "9463881e80583a3f",
     "type": "split",
     "children": [
       {
-        "id": "4b7405b143bbf13c",
+        "id": "bb0c26d409503d33",
         "type": "tabs",
         "children": [
           {
-            "id": "78591271bd1b15ed",
+            "id": "234fca973240f2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/actual-DQL.md",
-                "mode": "source",
+                "file": "HISTOLOGY/Виды костной ткани.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "actual-DQL"
+              "title": "Виды костной ткани"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8806fb372aab9003",
+    "id": "a0ddeffc0b565845",
     "type": "split",
     "children": [
       {
-        "id": "15f064eece3caf31",
+        "id": "0ac5622d7f8c511c",
         "type": "tabs",
         "children": [
           {
-            "id": "b23df3b5d7fc69ec",
+            "id": "87d095ba66671a80",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,28 +50,14 @@
             }
           },
           {
-            "id": "562bf559d08c148e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "dc1e8661d4f88350",
+            "id": "74f1919fdc8a2419",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -83,30 +69,15 @@
     "width": 200
   },
   "right": {
-    "id": "fabda5e98f69a2ff",
+    "id": "2983135030ff7b68",
     "type": "split",
     "children": [
       {
-        "id": "a11df274d3e3493e",
+        "id": "9f98ce6d868e263f",
         "type": "tabs",
-        "dimension": 24.968789013732835,
         "children": [
           {
-            "id": "7fb20810bbf1b00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTOLOGY/Базальная мембрана.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Базальная мембрана"
-            }
-          },
-          {
-            "id": "117ecd7ca58f875d",
+            "id": "79236e2273399373",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -119,185 +90,14 @@
               "title": "todo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a3eceaf223af41d6",
+        "id": "3406997ba784cfb1",
         "type": "tabs",
-        "dimension": 24.968789013732835,
         "children": [
           {
-            "id": "aca3e321069859af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/pic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pic"
-            }
-          },
-          {
-            "id": "b666ccb8b1632da5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "54d383fef3146bbd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6610828dec99f6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/todo.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "1bee5ca22a8ceef3",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "staff-only/pages/actual-DQL.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9acaeace7e91a18d",
-        "type": "tabs",
-        "dimension": 24.968789013732835,
-        "children": [
-          {
-            "id": "6c69bc4cf0dd2323",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "421ceaa63796d186",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Practice1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Practice1"
-            }
-          },
-          {
-            "id": "93b6d2322f9705c8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "homepage.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from homepage"
-            }
-          },
-          {
-            "id": "7979ed75ee170a2e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "681df9131d44a578",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "7c08bf313f6093ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "homepage.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of homepage"
-            }
-          },
-          {
-            "id": "4a83d2329226cfe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/ENGLISH/conditionals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conditionals"
-            }
-          },
-          {
-            "id": "58a3c920c20afa00",
+            "id": "59b389639d6ed315",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -306,16 +106,14 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
-        "id": "375068756f3369e0",
+        "id": "c1cb8b0b58a6c7d3",
         "type": "tabs",
-        "dimension": 25.0936329588015,
         "children": [
           {
-            "id": "eb86e569dbabc12d",
+            "id": "b6c2cf888dce2105",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -328,11 +126,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -340,58 +137,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "widgets:Add widget": false,
       "bulk-properties:Bulk edit selected notes": false
     }
   },
-  "active": "78591271bd1b15ed",
+  "active": "234fca973240f2cb",
   "lastOpenFiles": [
-    "HISTOLOGY/Эмбриональный гемопоэз.md",
-    "staff-only/pages/actual-DQL.md",
-    "HISTOLOGY/Эпителии.md",
-    "HISTOLOGY/Базальная мембрана.md",
-    "HISTOLOGY/Эмбриогенез повторяет филогенез.md",
-    "HISTOLOGY/Эволюция костной ткани.md",
-    "HISTOLOGY/Щитовидная железа.md",
-    "HISTOLOGY/Чешуя рыб.md",
-    "HISTOLOGY/Хрящ.md",
-    "HISTOLOGY/Фотофоры рыб.md",
-    "HISTOLOGY/Формирование зуба.md",
-    "HISTOLOGY/Тромбоциты и тромбообразование.md",
-    "HISTOLOGY/Ткань.md",
-    "HISTOLOGY/Строение нейрона.md",
-    "HISTOLOGY/Ткани внутренней среды.md",
-    "HISTOLOGY/Строение зуба.md",
-    "HISTOLOGY/Спинальный ганглий.md",
-    "HISTOLOGY/Соединения костей.md",
-    "HISTOLOGY/Слизистая ткань пупочного канатика.md",
-    "HISTOLOGY/Скелетная мышечная ткань.md",
-    "HISTOLOGY/Сердечная мышечная ткань.md",
-    "HISTOLOGY/Секреторные нейроны.md",
-    "HISTOLOGY/Сальные железы.md",
-    "HISTOLOGY/Рецепторы кожи.md",
-    "HISTOLOGY/Ретикулярная ткань.md",
-    "HISTOLOGY/Регенерация нейронов.md",
-    "HISTOLOGY/0. Общие вопросы",
-    "HISTOLOGY/4. Нервная ткань",
-    "HISTOLOGY/3. Мышечные ткани",
-    "HISTOLOGY/2. Ткани внутренней среды",
-    "HISTOLOGY/1. Эпителии",
-    "HISTOLOGY",
-    "APPLIED NEUROBIOLOGY/seminars",
-    "APPLIED NEUROBIOLOGY/lectures",
-    "staff-only/рics/Pasted image 20260918121530.png",
-    "staff-only/рics/connective.txt",
-    "staff-only/рics/Pasted image 20260915154719.png",
-    "staff-only/рics/Pasted image 20260915143015.png",
-    "staff-only/рics/Pasted image 20260915140650.png",
-    "staff-only/рics/Pasted image 20260913162212.png",
-    "staff-only/рics/Drawing 2026-09-12 13.48.00.excalidraw.png",
-    "staff-only/рics/Pasted image 20260912131516.png",
-    "staff-only/рics/Pasted image 20260910103051.png",
-    "staff-only/рics/Pasted image 20260910101750.png",
-    "staff-only/рics/Pasted image 20260910100844.png",
-    "APPLIED NEUROBIOLOGY"
+    "staff-only/pages/todo.md",
+    "staff-only/pages/homepage.md"
   ]
 }
