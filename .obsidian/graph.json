@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:HISTOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "file:PLANT PHYSIOLOGY",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5348405
       }
     },
     {
@@ -39,21 +32,14 @@
       "query": "file:ENGLISH",
       "color": {
         "a": 1,
-        "rgb": 3775802
+        "rgb": 7566195
       }
     },
     {
-      "query": "file:MOLECULAR BIOLOGY",
+      "query": "file:MOLECULAR_BIOLOGY",
       "color": {
         "a": 1,
         "rgb": 12148589
-      }
-    },
-    {
-      "query": "file:NEUROBIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 14606418
       }
     },
     {
@@ -61,6 +47,20 @@
       "color": {
         "a": 1,
         "rgb": 6307600
+      }
+    },
+    {
+      "query": "file:APPLIED_NEUROBIOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "file:NEUROBIOLOGY",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
       }
     }
   ],
@@ -74,6 +74,6 @@
   "repelStrength": 11.894893674658,
   "linkStrength": 0.728479823822786,
   "linkDistance": 128,
-  "scale": 0.30864761147149006,
+  "scale": 0.1967205570952665,
   "close": true
 }

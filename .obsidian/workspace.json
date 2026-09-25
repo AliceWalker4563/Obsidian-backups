@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e79460a360f54bd8",
+        "id": "4b7405b143bbf13c",
         "type": "tabs",
         "children": [
           {
-            "id": "67b9c6dac8d8cee8",
+            "id": "78591271bd1b15ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.2. Чешуя и зубы"
-            }
-          },
-          {
-            "id": "c6de01b682dd20d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/table.md",
+                "file": "staff-only/pages/actual-DQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "table"
+              "title": "actual-DQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,9 +87,45 @@
     "type": "split",
     "children": [
       {
+        "id": "a11df274d3e3493e",
+        "type": "tabs",
+        "dimension": 24.968789013732835,
+        "children": [
+          {
+            "id": "7fb20810bbf1b00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTOLOGY/Базальная мембрана.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базальная мембрана"
+            }
+          },
+          {
+            "id": "117ecd7ca58f875d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staff-only/pages/todo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "a3eceaf223af41d6",
         "type": "tabs",
-        "dimension": 33.66708385481852,
+        "dimension": 24.968789013732835,
         "children": [
           {
             "id": "aca3e321069859af",
@@ -124,6 +145,26 @@
             "id": "b666ccb8b1632da5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "54d383fef3146bbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6610828dec99f6a5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "staff-only/pages/todo.md",
@@ -133,14 +174,26 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "1bee5ca22a8ceef3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "staff-only/pages/actual-DQL.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "9acaeace7e91a18d",
         "type": "tabs",
-        "dimension": 32.29036295369212,
+        "dimension": 24.968789013732835,
         "children": [
           {
             "id": "6c69bc4cf0dd2323",
@@ -228,13 +281,38 @@
               "icon": "lucide-list",
               "title": "Outline of homepage"
             }
+          },
+          {
+            "id": "4a83d2329226cfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staff-only/ENGLISH/conditionals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conditionals"
+            }
+          },
+          {
+            "id": "58a3c920c20afa00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "375068756f3369e0",
         "type": "tabs",
-        "dimension": 34.04255319148936,
+        "dimension": 25.0936329588015,
         "children": [
           {
             "id": "eb86e569dbabc12d",
@@ -263,56 +341,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "homepage:Open homepage": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "bulk-properties:Bulk edit selected notes": false
     }
   },
-  "active": "c6de01b682dd20d2",
+  "active": "78591271bd1b15ed",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Drawing 2026-09-18 14.55.56.excalidraw.md",
-    "staff-only/pages/table.md",
-    "staff-only/pages/homepage.md",
-    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
-    "HISTOLOGY/4. Нервная ткань/1. Органы чувств.md",
-    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
-    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
-    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
-    "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
-    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
-    "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, мезохиль, паренхима, зародышевая мезенхима.md",
-    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
-    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
-    "HISTOLOGY/0. Общие вопросы/1. Заварзин, Хлопин и др.md",
-    "HISTOLOGY/0. Общие вопросы/0. Ткани.md",
-    "HISTOLOGY/2. Ткани внутренней среды/7.1. Кость.md",
-    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
-    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
-    "staff-only/pages/todo.md",
-    "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
-    "HISTOLOGY/0. Общие вопросы/2. Иммунитет.md",
-    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
+    "HISTOLOGY/Эмбриональный гемопоэз.md",
+    "staff-only/pages/actual-DQL.md",
+    "HISTOLOGY/Эпителии.md",
+    "HISTOLOGY/Базальная мембрана.md",
+    "HISTOLOGY/Эмбриогенез повторяет филогенез.md",
+    "HISTOLOGY/Эволюция костной ткани.md",
+    "HISTOLOGY/Щитовидная железа.md",
+    "HISTOLOGY/Чешуя рыб.md",
+    "HISTOLOGY/Хрящ.md",
+    "HISTOLOGY/Фотофоры рыб.md",
+    "HISTOLOGY/Формирование зуба.md",
+    "HISTOLOGY/Тромбоциты и тромбообразование.md",
+    "HISTOLOGY/Ткань.md",
+    "HISTOLOGY/Строение нейрона.md",
+    "HISTOLOGY/Ткани внутренней среды.md",
+    "HISTOLOGY/Строение зуба.md",
+    "HISTOLOGY/Спинальный ганглий.md",
+    "HISTOLOGY/Соединения костей.md",
+    "HISTOLOGY/Слизистая ткань пупочного канатика.md",
+    "HISTOLOGY/Скелетная мышечная ткань.md",
+    "HISTOLOGY/Сердечная мышечная ткань.md",
+    "HISTOLOGY/Секреторные нейроны.md",
+    "HISTOLOGY/Сальные железы.md",
+    "HISTOLOGY/Рецепторы кожи.md",
+    "HISTOLOGY/Ретикулярная ткань.md",
+    "HISTOLOGY/Регенерация нейронов.md",
+    "HISTOLOGY/0. Общие вопросы",
+    "HISTOLOGY/4. Нервная ткань",
+    "HISTOLOGY/3. Мышечные ткани",
+    "HISTOLOGY/2. Ткани внутренней среды",
+    "HISTOLOGY/1. Эпителии",
+    "HISTOLOGY",
+    "APPLIED NEUROBIOLOGY/seminars",
+    "APPLIED NEUROBIOLOGY/lectures",
     "staff-only/рics/Pasted image 20260918121530.png",
-    "HISTOLOGY/0. Общие вопросы/Невошедшие вопросы.md",
-    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
     "staff-only/рics/connective.txt",
     "staff-only/рics/Pasted image 20260915154719.png",
     "staff-only/рics/Pasted image 20260915143015.png",
     "staff-only/рics/Pasted image 20260915140650.png",
-    "staff-only/tasks/Микробиология_дз.md",
     "staff-only/рics/Pasted image 20260913162212.png",
     "staff-only/рics/Drawing 2026-09-12 13.48.00.excalidraw.png",
     "staff-only/рics/Pasted image 20260912131516.png",
     "staff-only/рics/Pasted image 20260910103051.png",
     "staff-only/рics/Pasted image 20260910101750.png",
     "staff-only/рics/Pasted image 20260910100844.png",
-    "APPLIED NEUROBIOLOGY",
-    "HISTOLOGY/0. Общие вопросы",
-    "GENETICS",
-    "staff-only/tasks",
-    "NEUROPHYSIOLOGY",
-    "MOLECULAR BIOLOGY",
-    "NEUROBIOLOGY",
-    "BIOPHYSICS",
-    "MICROBIOLOGY"
+    "APPLIED NEUROBIOLOGY"
   ]
 }

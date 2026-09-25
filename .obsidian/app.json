@@ -32,5 +32,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:insert-table"
-  ]
+  ],
+  "propertiesInDocument": "hidden"
 }

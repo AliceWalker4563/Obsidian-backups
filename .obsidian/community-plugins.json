@@ -6,5 +6,7 @@
   "advanced-multi-column",
   "calendar",
   "obsidian-style-settings",
-  "widgets"
+  "widgets",
+  "dataview",
+  "bulk-properties"
 ]
