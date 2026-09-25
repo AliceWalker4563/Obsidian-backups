@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "f61037b8ba7abf9f",
+    "id": "9463881e80583a3f",
     "type": "split",
     "children": [
       {
-        "id": "e79460a360f54bd8",
+        "id": "bb0c26d409503d33",
         "type": "tabs",
         "children": [
           {
-            "id": "67b9c6dac8d8cee8",
+            "id": "234fca973240f2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
+                "file": "HISTOLOGY/Виды костной ткани.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2. Чешуя и зубы"
-            }
-          },
-          {
-            "id": "c6de01b682dd20d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/table.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "table"
+              "title": "Виды костной ткани"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8806fb372aab9003",
+    "id": "a0ddeffc0b565845",
     "type": "split",
     "children": [
       {
-        "id": "15f064eece3caf31",
+        "id": "0ac5622d7f8c511c",
         "type": "tabs",
         "children": [
           {
-            "id": "b23df3b5d7fc69ec",
+            "id": "87d095ba66671a80",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,28 +50,14 @@
             }
           },
           {
-            "id": "562bf559d08c148e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "dc1e8661d4f88350",
+            "id": "74f1919fdc8a2419",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -98,30 +69,15 @@
     "width": 200
   },
   "right": {
-    "id": "fabda5e98f69a2ff",
+    "id": "2983135030ff7b68",
     "type": "split",
     "children": [
       {
-        "id": "a3eceaf223af41d6",
+        "id": "9f98ce6d868e263f",
         "type": "tabs",
-        "dimension": 33.66708385481852,
         "children": [
           {
-            "id": "aca3e321069859af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/pic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pic"
-            }
-          },
-          {
-            "id": "b666ccb8b1632da5",
+            "id": "79236e2273399373",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,16 +90,14 @@
               "title": "todo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "9acaeace7e91a18d",
+        "id": "3406997ba784cfb1",
         "type": "tabs",
-        "dimension": 32.29036295369212,
         "children": [
           {
-            "id": "6c69bc4cf0dd2323",
+            "id": "59b389639d6ed315",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -151,93 +105,15 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "421ceaa63796d186",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Practice1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Practice1"
-            }
-          },
-          {
-            "id": "93b6d2322f9705c8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "homepage.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from homepage"
-            }
-          },
-          {
-            "id": "7979ed75ee170a2e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "681df9131d44a578",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "7c08bf313f6093ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "homepage.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of homepage"
-            }
           }
         ]
       },
       {
-        "id": "375068756f3369e0",
+        "id": "c1cb8b0b58a6c7d3",
         "type": "tabs",
-        "dimension": 34.04255319148936,
         "children": [
           {
-            "id": "eb86e569dbabc12d",
+            "id": "b6c2cf888dce2105",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -250,11 +126,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -262,57 +137,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "bulk-properties:Bulk edit selected notes": false
     }
   },
-  "active": "c6de01b682dd20d2",
+  "active": "234fca973240f2cb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Drawing 2026-09-18 14.55.56.excalidraw.md",
-    "staff-only/pages/table.md",
-    "staff-only/pages/homepage.md",
-    "HISTOLOGY/2. Ткани внутренней среды/7.2. Чешуя и зубы.md",
-    "HISTOLOGY/4. Нервная ткань/1. Органы чувств.md",
-    "HISTOLOGY/2. Ткани внутренней среды/1. Собственно соединительные ткани.md",
-    "HISTOLOGY/1. Эпителии/4. Железистые эпителии.md",
-    "HISTOLOGY/2. Ткани внутренней среды/5. Кроветворение.md",
-    "HISTOLOGY/2. Ткани внутренней среды/4. Кровь.md",
-    "HISTOLOGY/2. Ткани внутренней среды/2. Соединительные ткани со спецсвойствами.md",
-    "HISTOLOGY/2. Ткани внутренней среды/3. Мезоглея, мезохиль, паренхима, зародышевая мезенхима.md",
-    "HISTOLOGY/4. Нервная ткань/0. Нервная ткань.md",
-    "HISTOLOGY/1. Эпителии/0. Эпителии общее.md",
-    "HISTOLOGY/0. Общие вопросы/1. Заварзин, Хлопин и др.md",
-    "HISTOLOGY/0. Общие вопросы/0. Ткани.md",
-    "HISTOLOGY/2. Ткани внутренней среды/7.1. Кость.md",
-    "HISTOLOGY/2. Ткани внутренней среды/6. Хрящ.md",
-    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
     "staff-only/pages/todo.md",
-    "HISTOLOGY/2. Ткани внутренней среды/0. Ткани внутренней среды общее.md",
-    "HISTOLOGY/0. Общие вопросы/2. Иммунитет.md",
-    "HISTOLOGY/1. Эпителии/2. Кишечные эпителии.md",
-    "staff-only/рics/Pasted image 20260918121530.png",
-    "HISTOLOGY/0. Общие вопросы/Невошедшие вопросы.md",
-    "HISTOLOGY/1. Эпителии/3. Осморегулирующие и выделительные эпителии.md",
-    "staff-only/рics/connective.txt",
-    "staff-only/рics/Pasted image 20260915154719.png",
-    "staff-only/рics/Pasted image 20260915143015.png",
-    "staff-only/рics/Pasted image 20260915140650.png",
-    "staff-only/tasks/Микробиология_дз.md",
-    "staff-only/рics/Pasted image 20260913162212.png",
-    "staff-only/рics/Drawing 2026-09-12 13.48.00.excalidraw.png",
-    "staff-only/рics/Pasted image 20260912131516.png",
-    "staff-only/рics/Pasted image 20260910103051.png",
-    "staff-only/рics/Pasted image 20260910101750.png",
-    "staff-only/рics/Pasted image 20260910100844.png",
-    "APPLIED NEUROBIOLOGY",
-    "HISTOLOGY/0. Общие вопросы",
-    "GENETICS",
-    "staff-only/tasks",
-    "NEUROPHYSIOLOGY",
-    "MOLECULAR BIOLOGY",
-    "NEUROBIOLOGY",
-    "BIOPHYSICS",
-    "MICROBIOLOGY"
+    "staff-only/pages/homepage.md"
   ]
 }
