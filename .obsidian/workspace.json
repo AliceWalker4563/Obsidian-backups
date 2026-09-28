@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -38,18 +38,15 @@
             }
           },
           {
-            "id": "8bd34e5557919a2e",
+            "id": "5c4eabf7be8478eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MOLECULAR BIOLOGY/Терминация репликации прокариот.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Drawing 2026-09-27 10.08.48.excalidraw.png"
               },
-              "icon": "lucide-file",
-              "title": "Терминация репликации прокариот"
+              "icon": "lucide-image",
+              "title": "Drawing 2026-09-27 10.08.48.excalidraw"
             }
           }
         ],
@@ -221,18 +218,22 @@
   },
   "active": "2385afa9e20016c8",
   "lastOpenFiles": [
-    "MOLECULAR BIOLOGY/Терминация репликации прокариот.md",
+    "Drawing 2026-09-27 10.08.48.excalidraw.png",
+    "Drawing 2026-09-27 10.40.08.excalidraw.md",
     "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
+    "staff-only/pages/homepage.md",
+    "staff-only/еxcalidrawings/Drawing 2026-09-27 10.08.48.excalidraw.md",
+    "staff-only/pages/todo.md",
+    "staff-only/рics/e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg",
+    "MOLECULAR BIOLOGY/Терминация репликации прокариот.md",
     "staff-only/рics/Pasted image 20260926180843.png",
     "staff-only/рics/Pasted image 20260926180732.png",
     "staff-only/рics/Pasted image 20260926180709.png",
     "staff-only/рics/Pasted image 20260926180619.png",
-    "staff-only/pages/homepage.md",
     "Leaky Integrate-and-Fire.md",
     "staff-only/pages/actual-DQL.md",
     "staff-only/pages/how-to-DQL.md",
     "staff-only/homework_list.md",
-    "HISTOLOGY/Виды костной ткани.md",
-    "staff-only/pages/todo.md"
+    "HISTOLOGY/Виды костной ткани.md"
   ]
 }
