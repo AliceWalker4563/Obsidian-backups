@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "234fca973240f2cb",
+            "id": "5f4dadc79b212eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTOLOGY/Виды костной ткани.md",
+                "file": "staff-only/pages/homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Виды костной ткани"
+              "title": "homepage"
+            }
+          },
+          {
+            "id": "2385afa9e20016c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Элонгация репликации прокариот"
+            }
+          },
+          {
+            "id": "5c4eabf7be8478eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Drawing 2026-09-27 10.08.48.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "Drawing 2026-09-27 10.08.48.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,10 +113,54 @@
               "state": {
                 "file": "staff-only/pages/todo.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "todo"
+            }
+          },
+          {
+            "id": "2ceb532a6ea73364",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "staff-only/homework_list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aa691f5bddbf3932",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6cba40ae97d68c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "staff-only/homework_list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -143,9 +216,24 @@
       "bulk-properties:Bulk edit selected notes": false
     }
   },
-  "active": "234fca973240f2cb",
+  "active": "2385afa9e20016c8",
   "lastOpenFiles": [
+    "Drawing 2026-09-27 10.08.48.excalidraw.png",
+    "Drawing 2026-09-27 10.40.08.excalidraw.md",
+    "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
+    "staff-only/pages/homepage.md",
+    "staff-only/еxcalidrawings/Drawing 2026-09-27 10.08.48.excalidraw.md",
     "staff-only/pages/todo.md",
-    "staff-only/pages/homepage.md"
+    "staff-only/рics/e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg",
+    "MOLECULAR BIOLOGY/Терминация репликации прокариот.md",
+    "staff-only/рics/Pasted image 20260926180843.png",
+    "staff-only/рics/Pasted image 20260926180732.png",
+    "staff-only/рics/Pasted image 20260926180709.png",
+    "staff-only/рics/Pasted image 20260926180619.png",
+    "Leaky Integrate-and-Fire.md",
+    "staff-only/pages/actual-DQL.md",
+    "staff-only/pages/how-to-DQL.md",
+    "staff-only/homework_list.md",
+    "HISTOLOGY/Виды костной ткани.md"
   ]
 }
