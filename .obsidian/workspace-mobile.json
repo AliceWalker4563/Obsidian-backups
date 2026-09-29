@@ -8,63 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bad3b0b7c8b8d1a",
+            "id": "ad8781e25029b654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "78fd9aef5751300a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOLECULAR BIOLOGY/0. Введение.md",
+                "file": "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Введение"
+              "title": "Элонгация репликации прокариот"
             }
           },
           {
-            "id": "cd27bb09f8a928b5",
+            "id": "d67ade7880ae7948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab.md",
+                "file": "Lab_2.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab"
-            }
-          },
-          {
-            "id": "dfb62dda2d0dd30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lab_2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +75,8 @@
             "extraContext": false,
             "sortOrder": "alphabetical"
           },
-          "icon": "lucide-search",
-          "title": "Search"
+          "icon": "lucide-ghost",
+          "title": "search"
         }
       },
       {
@@ -116,8 +90,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-tags",
-          "title": "Tags"
+          "icon": "lucide-ghost",
+          "title": "tag"
         }
       },
       {
@@ -168,8 +142,8 @@
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           },
-          "icon": "links-coming-in",
-          "title": "Backlinks"
+          "icon": "lucide-ghost",
+          "title": "backlink"
         }
       },
       {
@@ -214,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bulk-properties:Bulk edit selected notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,10 +201,16 @@
       "widgets:Add widget": false
     }
   },
-  "active": "cd27bb09f8a928b5",
+  "active": "d67ade7880ae7948",
   "lastOpenFiles": [
-    "Leaky Integrate-and-Fire.md",
     "Lab.md",
+    "staff-only/pages/homepage.md",
+    "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
+    "Lab_2.md",
+    "MOLECULAR BIOLOGY/0. Введение.md",
+    "Drawing 2026-09-27 10.40.08.excalidraw.md",
+    "Drawing 2026-09-27 10.08.48.excalidraw.png",
+    "Leaky Integrate-and-Fire.md",
     "staff-only/рics/Pasted image 20260926180843.png",
     "staff-only/рics/Pasted image 20260926180732.png",
     "staff-only/рics/Pasted image 20260926180709.png",
@@ -246,7 +227,6 @@
     "NEUROBIOLOGY/(1) Строение нейронов.md",
     "NEUROBIOLOGY/(0) История нейробиологии.md",
     "NEUROBIOLOGY",
-    "MOLECULAR BIOLOGY/Элонгация репликации прокариот.md",
     "HISTOLOGY/Эпителии.md",
     "HISTOLOGY/Эмбриональный гемопоэз.md",
     "HISTOLOGY/Эмбриогенез повторяет филогенез.md",
@@ -256,12 +236,7 @@
     "HISTOLOGY/Хрящ.md",
     "HISTOLOGY/Фотофоры рыб.md",
     "HISTOLOGY/Формирование зуба.md",
-    "HISTOLOGY/Тромбоциты и тромбообразование.md",
-    "HISTOLOGY/Ткань.md",
-    "HISTOLOGY/Ткани внутренней среды.md",
-    "HISTOLOGY/Строение нейрона.md",
     "HISTOLOGY",
-    "Drawing 2026-09-27 10.08.48.excalidraw.png",
     "APPLIED NEUROBIOLOGY/seminars",
     "APPLIED NEUROBIOLOGY/lectures",
     "APPLIED NEUROBIOLOGY",
