@@ -1,5 +1,4 @@
 ```dataview
-TABLE topic, type
-FROM "HISTOLOGY"
-WHERE contains(type, "tissue") and contains(topic, "muscle")
+TABLE subject, topic, type
+WHERE contains(type, "intro")
 ```

@@ -1,3 +1,11 @@
+---
+subject:
+  - english
+type:
+  - rules
+topic:
+  - grammar
+---
 # Zero Conditional
 
 IF  V1,  V1   (general statements | without time at all)

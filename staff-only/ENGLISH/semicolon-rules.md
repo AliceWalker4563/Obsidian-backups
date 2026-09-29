@@ -1,3 +1,11 @@
+---
+subject:
+  - english
+topic:
+  - grammar
+type:
+  - rules
+---
 # Connecting Independent Clauses
 
 Use a semicolon if 2 clauses are independent, but closely related and there is no coordinating conjunction (FANBOYS). 

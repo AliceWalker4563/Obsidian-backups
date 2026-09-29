@@ -4,66 +4,9 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:PLANT PHYSIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 5348405
-      }
-    },
-    {
-      "query": "file:MICROBIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 5431439
-      }
-    },
-    {
-      "query": "file:BIOPHYSICS",
-      "color": {
-        "a": 1,
-        "rgb": 5415904
-      }
-    },
-    {
-      "query": "file:ENGLISH",
-      "color": {
-        "a": 1,
-        "rgb": 7566195
-      }
-    },
-    {
-      "query": "file:MOLECULAR_BIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 12148589
-      }
-    },
-    {
-      "query": "file:NEUROPHYSIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 6307600
-      }
-    },
-    {
-      "query": "file:APPLIED_NEUROBIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "file:NEUROBIOLOGY",
-      "color": {
-        "a": 1,
-        "rgb": 14732626
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -74,6 +17,6 @@
   "repelStrength": 11.894893674658,
   "linkStrength": 0.728479823822786,
   "linkDistance": 128,
-  "scale": 0.1967205570952665,
+  "scale": 0.11543348190302269,
   "close": true
 }

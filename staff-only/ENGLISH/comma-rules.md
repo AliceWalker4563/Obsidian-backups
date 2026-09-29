@@ -1,3 +1,11 @@
+---
+subject:
+  - english
+type:
+  - rules
+topic:
+  - grammar
+---
 Basically, there are a few main rules and situations in which a comma is needed. And also feel free to put a comma anywhere to prevent misreading)
 
 # Separating Independent Clauses
