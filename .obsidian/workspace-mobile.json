@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "Lab_2"
             }
+          },
+          {
+            "id": "a3cf93017dc620c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staff-only/pages/homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +216,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "d67ade7880ae7948",
+  "active": "a3cf93017dc620c7",
   "lastOpenFiles": [
-    "Lab.md",
     "Lab_2.md",
+    "Lab.md",
     "staff-only/pages/Доклад элонгация терминация.md",
     "staff-only/рics/Drawing 2026-09-27 10.08.48.excalidraw.png",
     "staff-only/еxcalidrawings/Drawing 2026-09-27 10.40.08.excalidraw.md",
