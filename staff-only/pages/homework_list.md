@@ -7,7 +7,6 @@
 
 ## No certain date (yet)
 
-- Отчёт микробиология допечатать и в ворд [[report1]]
 - [[1. Сенсорные системы]] - note into paper
 - Neurobiology presentation. 9. Белки mTOR. Сигнальные системы TORC1 и TORC2. Строение, функции
 - All main subjects to catch up 

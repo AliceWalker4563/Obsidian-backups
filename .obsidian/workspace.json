@@ -8,37 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08b355423087d9ea",
+            "id": "a7f3503cd4c87727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MICROBIOLOGY/0. Введение.md",
+                "file": "REPRODUCTIVE BIOLOGY/Оогенез.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Введение"
+              "title": "Оогенез"
             }
           },
           {
-            "id": "3ae1efed470ca066",
+            "id": "ba25ee84b7fd33c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOLECULAR BIOLOGY/ДНК-полимераза III.md",
-                "mode": "preview",
+                "file": "REPRODUCTIVE BIOLOGY/Яйцеклетка.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ДНК-полимераза III"
+              "title": "Яйцеклетка"
+            }
+          },
+          {
+            "id": "dc8c3b006b106f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REPRODUCTIVE BIOLOGY/Яичник.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Яичник"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,35 +219,41 @@
       "bulk-properties:Bulk edit selected notes": false
     }
   },
-  "active": "3ae1efed470ca066",
+  "active": "dc8c3b006b106f4a",
   "lastOpenFiles": [
-    "MOLECULAR BIOLOGY/Петля репликации и модель тромбона.md",
-    "MOLECULAR BIOLOGY/Декатенация и разрешение димеров.md",
-    "MOLECULAR BIOLOGY/Гираза.md",
-    "MOLECULAR BIOLOGY/Введение.md",
-    "MOLECULAR BIOLOGY/Белки элонгации репликации.md",
-    "MOLECULAR BIOLOGY/SSB-белки.md",
+    "REPRODUCTIVE BIOLOGY/Оогенез.md",
+    "REPRODUCTIVE BIOLOGY/Яичник.md",
+    "REPRODUCTIVE BIOLOGY/Профаза I мейоза.md",
+    "REPRODUCTIVE BIOLOGY/Яйцеклетка.md",
     "staff-only/pages/homepage.md",
-    "MICROBIOLOGY/0. Введение.md",
-    "MOLECULAR BIOLOGY/История.md",
-    "staff-only/pages/Доклад элонгация терминация.md",
-    "MOLECULAR BIOLOGY/Элонгация репликации.md",
-    "MOLECULAR BIOLOGY/lectures",
-    "MOLECULAR BIOLOGY/Терминация репликации.md",
-    "MOLECULAR BIOLOGY/ДНК-полимераза III.md",
-    "MOLECULAR BIOLOGY/Праймаза.md",
-    "MOLECULAR BIOLOGY/Хеликаза.md",
+    "related-but-not-subject",
+    "PLANT PHYSIOLOGY/(2) Биологическая мембрана.md",
     "PLANT PHYSIOLOGY/1. Химический состав растительной клетки.md",
+    "PLANT PHYSIOLOGY/0. Введение.md",
+    "MICROBIOLOGY/planned.md",
+    "HISTOLOGY/Базальная мембрана.md",
+    "MICROBIOLOGY/lectures",
+    "GENETICS/lectures",
+    "HISTOLOGY/Щитовидная железа.md",
+    "HISTOLOGY/Фотофоры рыб.md",
+    "HISTOLOGY/Сердечная мышечная ткань.md",
+    "HISTOLOGY/Поджелудочная железа.md",
+    "HISTOLOGY/Нефрон.md",
+    "HISTOLOGY/Молочные железы.md",
+    "HISTOLOGY/Кортиев орган.md",
+    "HISTOLOGY/Кора надпочечников.md",
+    "HISTOLOGY/Кора мозжечка.md",
+    "HISTOLOGY/Зрительный анализатор.md",
+    "HISTOLOGY/Зеленая железа рака.md",
+    "staff-only/pages/0. Requirements.md",
+    "staff-only/еxcalidrawings/Drawing 2026-09-30 19.07.49.excalidraw.md",
+    "staff-only/рics/Drawing 2026-09-30 19.07.49.excalidraw.png",
     "staff-only/pages/homework_list.md",
-    "APPLIED NEUROBIOLOGY/lectures/1. Методы.md",
-    "APPLIED NEUROBIOLOGY/lectures/2. Клеточные линии.md",
-    "APPLIED NEUROBIOLOGY/seminars/1. Микроскопия в нейробиологии.md",
-    "staff-only/pages/actual-DQL.md",
-    "staff-only/ENGLISH/conditionals.md",
-    "staff-only/tasks/report1.md",
-    "staff-only/tasks/Микробиология_дз.md",
-    "staff-only/ENGLISH/the-rules.md",
-    "staff-only/ENGLISH/semicolon-rules.md",
+    "REPRODUCTIVE BIOLOGY",
+    "staff-only/Leaky Integrate-and-Fire.md",
+    "Lab2.docx",
+    "Lab1.docx",
+    "MOLECULAR BIOLOGY/lectures",
     "staff-only/рics/Drawing 2026-09-27 10.08.48.excalidraw.png",
     "staff-only/рics/e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg",
     "staff-only/рics/Pasted image 20260926180843.png",
