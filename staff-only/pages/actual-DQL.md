@@ -1,4 +1,4 @@
 ```dataview
 TABLE subject, topic, type
-WHERE contains(type, "intro")
+WHERE contains(file.tags, "finish")
 ```
