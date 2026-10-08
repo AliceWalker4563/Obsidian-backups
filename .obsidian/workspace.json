@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7890761a0a08bf44",
+        "id": "3197f638675a3f86",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f3503cd4c87727",
+            "id": "158ec93f98e3894b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REPRODUCTIVE BIOLOGY/Оогенез.md",
+                "file": "PLANT PHYSIOLOGY/Органеллы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Оогенез"
-            }
-          },
-          {
-            "id": "ba25ee84b7fd33c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REPRODUCTIVE BIOLOGY/Яйцеклетка.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Яйцеклетка"
-            }
-          },
-          {
-            "id": "dc8c3b006b106f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REPRODUCTIVE BIOLOGY/Яичник.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Яичник"
+              "title": "Органеллы"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,12 +93,12 @@
             }
           },
           {
-            "id": "2ceb532a6ea73364",
+            "id": "e1e0368a14f35c27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "staff-only/homework_list.md",
+                "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -138,7 +107,7 @@
             }
           },
           {
-            "id": "aa691f5bddbf3932",
+            "id": "be399ae190fcb2e7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,12 +121,12 @@
             }
           },
           {
-            "id": "c6cba40ae97d68c9",
+            "id": "f4220e5ca5ea704e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "staff-only/homework_list.md",
+                "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,8 +134,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5171a21c49f13a0f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3406997ba784cfb1",
@@ -216,49 +196,54 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "widgets:Add widget": false,
-      "bulk-properties:Bulk edit selected notes": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dc8c3b006b106f4a",
+  "active": "158ec93f98e3894b",
   "lastOpenFiles": [
-    "REPRODUCTIVE BIOLOGY/Оогенез.md",
-    "REPRODUCTIVE BIOLOGY/Яичник.md",
-    "REPRODUCTIVE BIOLOGY/Профаза I мейоза.md",
-    "REPRODUCTIVE BIOLOGY/Яйцеклетка.md",
-    "staff-only/pages/homepage.md",
-    "related-but-not-subject",
+    "PLANT PHYSIOLOGY/Введение.md",
+    "NEUROBIOLOGY/Селективность.md",
+    "NEUROBIOLOGY/Открытие, закрытие и инактивация.md",
+    "NEUROBIOLOGY/Натриевые каналы.md",
+    "NEUROBIOLOGY/Молекулярная организация ионных каналов.md",
+    "NEUROBIOLOGY/Лиганд-зависимые каналы.md",
+    "NEUROBIOLOGY/Классификация ионных каналов.md",
+    "NEUROBIOLOGY/Калиевые каналы.md",
+    "PLANT PHYSIOLOGY/Органеллы.md",
     "PLANT PHYSIOLOGY/(2) Биологическая мембрана.md",
-    "PLANT PHYSIOLOGY/1. Химический состав растительной клетки.md",
-    "PLANT PHYSIOLOGY/0. Введение.md",
-    "MICROBIOLOGY/planned.md",
-    "HISTOLOGY/Базальная мембрана.md",
+    "PLANT PHYSIOLOGY/Химический состав растительной клетки.md",
+    "MOLECULAR BIOLOGY/Декатенация и разрешение димеров.md",
+    "MOLECULAR BIOLOGY/Петля репликации и модель тромбона.md",
+    "MOLECULAR BIOLOGY/Терминация репликации.md",
+    "REPRODUCTIVE BIOLOGY/Овуляция.md",
+    "MOLECULAR BIOLOGY/Белки элонгации репликации.md",
+    "MOLECULAR BIOLOGY/Элонгация репликации.md",
+    "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
+    "REPRODUCTIVE BIOLOGY/Яйцеклетка.md",
+    "MOLECULAR BIOLOGY/SSB-белки.md",
+    "MOLECULAR BIOLOGY/Хеликаза.md",
+    "REPRODUCTIVE BIOLOGY/Оогенез.md",
+    "REPRODUCTIVE BIOLOGY/Профаза I мейоза.md",
+    "MOLECULAR BIOLOGY/ДНК-полимераза III.md",
+    "MOLECULAR BIOLOGY/Праймаза.md",
+    "MOLECULAR BIOLOGY/Гираза.md",
+    "staff-only/ARCHIVED",
+    "staff-only/рics/Pasted image 20261006153037.png",
+    "staff-only/рics/Pasted image 20261006151132.png",
+    "staff-only/рics/Pasted image 20261002173344.png",
+    "staff-only/рics/Pasted image 20261002172933.png",
+    "staff-only/рics/Pasted image 20261002171442.png",
+    "staff-only/рics/Drawing 2026-09-30 19.07.49.excalidraw 1.png",
+    "staff-only/рics/Pasted image 20261001185724.png",
+    "related-but-not-subject",
     "MICROBIOLOGY/lectures",
     "GENETICS/lectures",
-    "HISTOLOGY/Щитовидная железа.md",
-    "HISTOLOGY/Фотофоры рыб.md",
-    "HISTOLOGY/Сердечная мышечная ткань.md",
-    "HISTOLOGY/Поджелудочная железа.md",
-    "HISTOLOGY/Нефрон.md",
-    "HISTOLOGY/Молочные железы.md",
-    "HISTOLOGY/Кортиев орган.md",
-    "HISTOLOGY/Кора надпочечников.md",
-    "HISTOLOGY/Кора мозжечка.md",
-    "HISTOLOGY/Зрительный анализатор.md",
-    "HISTOLOGY/Зеленая железа рака.md",
-    "staff-only/pages/0. Requirements.md",
-    "staff-only/еxcalidrawings/Drawing 2026-09-30 19.07.49.excalidraw.md",
     "staff-only/рics/Drawing 2026-09-30 19.07.49.excalidraw.png",
-    "staff-only/pages/homework_list.md",
     "REPRODUCTIVE BIOLOGY",
-    "staff-only/Leaky Integrate-and-Fire.md",
     "Lab2.docx",
     "Lab1.docx",
     "MOLECULAR BIOLOGY/lectures",
     "staff-only/рics/Drawing 2026-09-27 10.08.48.excalidraw.png",
-    "staff-only/рics/e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg",
-    "staff-only/рics/Pasted image 20260926180843.png",
-    "staff-only/рics/Pasted image 20260926180732.png",
-    "staff-only/рics/Pasted image 20260926180709.png",
-    "staff-only/рics/Pasted image 20260926180619.png"
+    "staff-only/рics/e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg"
   ]
 }
