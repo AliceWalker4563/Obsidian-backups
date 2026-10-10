@@ -39,3 +39,4 @@ WHERE contains(type, "structure")
 `WHERE` - filters files based on criteria
 `SORT` - changes the order of the results
 
+use `contains()` for list items and wrap text in ""

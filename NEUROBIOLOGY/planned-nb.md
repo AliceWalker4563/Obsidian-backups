@@ -1,5 +1,5 @@
-[[Стретч-каналы]]
-[[Коннексоны]]
-[[Аквапорины]]
-[[Gap junctions]]
-[[Метаботропные рецепторы]]
+```dataview
+TABLE subject, topic, type
+FROM #finish 
+WHERE contains(subject, "molecular-neuro")
+```
