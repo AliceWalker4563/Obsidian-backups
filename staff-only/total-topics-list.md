@@ -19,5 +19,4 @@
 ![[planned-g]]
 
 ## Applied neurobiology
-## Neurobiology
 ## Plant physiology
