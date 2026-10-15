@@ -8,8 +8,8 @@ topic:
   - gametogenesis
 tags:
   - review
-sr-due: 2026-10-09
-sr-interval: 2
+sr-due: 2026-10-16
+sr-interval: 6
 sr-ease: 250
 ---
 # Этапы профазы I мейоза

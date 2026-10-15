@@ -9,3 +9,7 @@
 | Neurophysiology                        | V        | -    | -        | notes in paper                               | Test I guess?                 |
 | Applied neurobiology                   | V        | V    | -        |                                              | -                             |
 | Genetics                               | -/+      | V    | V        | 4/5 cw -> exam only theory no task           | Exam                          |
+missed:
+- 1 microbiology lecture,
+- 1 neurobiology seminar,
+- 1 neurobiology lecture.

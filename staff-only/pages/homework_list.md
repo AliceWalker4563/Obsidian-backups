@@ -1,12 +1,9 @@
 ## Deadlines
 
-**12.10.26** English text CVS to be ready
-**12.10.26** По генетике составить задачку о своей родословной со схемой, условием и решением
-**08.03.26** Контрольная по органеллам: строение и функции. Тест + открытый вопрос. Дополнить знания из цитологии физиологией растений
-**16.10.26** Контрольная ионные каналы
+28.10.26 - отчет biophysics
 
 ## No certain date (yet)
 
-- [[1. Сенсорные системы]] - note into paper
 - Neurobiology presentation. 9. Белки mTOR. Сигнальные системы TORC1 и TORC2. Строение, функции
-- All main subjects to catch up 
+- Biophysics cw?????
+- Neurophysiology notes into paper
