@@ -4,56 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "449f941f0096613d",
+        "id": "2c93810ec329bfb1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6c96a945cb9fba",
+            "id": "8372aad3f9e5ac41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLANT PHYSIOLOGY/Органеллы.md",
+                "file": "NEUROBIOLOGY/Калиевые каналы.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Органеллы"
+              "title": "Калиевые каналы"
             }
           },
           {
-            "id": "0b5faba9937c7a73",
+            "id": "281dcd66019d3e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/homepage.md",
+                "file": "NEUROBIOLOGY/Калиевые каналы.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Калиевые каналы"
             }
           },
           {
-            "id": "c7325e66b6db1759",
+            "id": "c5961fb9182b72e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "NEUROBIOLOGY/Кальциевые каналы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Кальциевые каналы"
+            }
+          },
+          {
+            "id": "a1040a1a8eae6027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lab4"
+            }
+          },
+          {
+            "id": "a2cbc2bec748b5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,30 +172,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e8106e6d0c3489a3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "staff-only/pages/homepage.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "lucide-ghost",
-          "title": "backlink"
-        }
-      },
-      {
         "id": "258295222821ed2a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "NEUROBIOLOGY/Глутаматные рецепторы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -179,6 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "09.11.2026.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -208,7 +221,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,28 +238,35 @@
       "widgets:Add widget": false
     }
   },
-  "active": "c7325e66b6db1759",
+  "active": "a1040a1a8eae6027",
   "lastOpenFiles": [
     "staff-only/pages/homepage.md",
+    "Lab4.md",
     "Untitled.md",
-    "PLANT PHYSIOLOGY/Органеллы.md",
+    "NEUROBIOLOGY/Кальциевые каналы.md",
+    "NEUROBIOLOGY/Открытие, закрытие и инактивация.md",
+    "NEUROBIOLOGY/Лиганд-зависимые каналы.md",
+    "NEUROBIOLOGY/К-каналы 4TM-2P.md",
+    "NEUROBIOLOGY/Глутаматные рецепторы.md",
+    "NEUROBIOLOGY/Калиевые каналы.md",
+    "NEUROBIOLOGY/Хлорные каналы.md",
+    "NEUROBIOLOGY/Коннексоны.md",
+    "NEUROBIOLOGY/Натриевые каналы.md",
+    "NEUROBIOLOGY/Аквапорины.md",
+    "NEUROBIOLOGY/core-concepts-nb.md",
+    "NEUROBIOLOGY/Везикулярный транспорт.md",
+    "Genetics 1.md",
+    "staff-only/еvents/09.11.2026.md",
     "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
-    "APPLIED NEUROBIOLOGY/seminars/Lab1_solutions.md",
-    "Lab_2.md",
-    "Lab.md",
+    "BIOPHYSICS/planned-bph.md",
+    "GENETICS/planned-g.md",
+    "NEUROBIOLOGY/planned-nb.md",
+    "NEUROBIOLOGY/Метаботропные рецепторы.md",
+    "NEUROBIOLOGY/Стретч-каналы.md",
+    "GENETICS/Labs/3. Основы статистики.md",
+    "NEUROBIOLOGY/К-каналы 6ТМ-1Р.md",
+    "GENETICS/Labs/2. Питательные среды для культивирования дрозофил.md",
     "staff-only/рics/Drawing 2026-09-27 10.08.48.excalidraw.png",
-    "staff-only/еxcalidrawings/Drawing 2026-09-27 10.40.08.excalidraw.md",
-    "staff-only/tasks/report1.md",
-    "staff-only/Requirements.md",
-    "staff-only/pages/homework_list.md",
-    "staff-only/pages/0. Requirements.md",
-    "staff-only/Leaky Integrate-and-Fire.md",
-    "MOLECULAR BIOLOGY/Элонгация репликации.md",
-    "MOLECULAR BIOLOGY/Хеликаза.md",
-    "MOLECULAR BIOLOGY/Терминация репликации.md",
-    "MOLECULAR BIOLOGY/Праймаза.md",
-    "MOLECULAR BIOLOGY/Петля репликации и модель тромбона.md",
-    "MOLECULAR BIOLOGY/История.md",
     "GENETICS/Labs",
     "Drawing 2026-09-27 10.08.48.excalidraw.png",
     "staff-only/рics/Pasted image 20260926180843.png",
