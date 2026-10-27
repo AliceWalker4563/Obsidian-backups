@@ -4,6 +4,82 @@
     "type": "split",
     "children": [
       {
+        "id": "2c93810ec329bfb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8372aad3f9e5ac41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEUROBIOLOGY/Калиевые каналы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Калиевые каналы"
+            }
+          },
+          {
+            "id": "281dcd66019d3e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEUROBIOLOGY/Калиевые каналы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Калиевые каналы"
+            }
+          },
+          {
+            "id": "c5961fb9182b72e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEUROBIOLOGY/Кальциевые каналы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Кальциевые каналы"
+            }
+          },
+          {
+            "id": "a1040a1a8eae6027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab4"
+            }
+          },
+          {
+            "id": "a2cbc2bec748b5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab4"
         "id": "cb645a9661178687",
         "type": "tabs",
         "children": [
@@ -37,7 +113,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,30 +204,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e8106e6d0c3489a3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "staff-only/pages/homepage.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "lucide-ghost",
-          "title": "backlink"
-        }
-      },
-      {
         "id": "258295222821ed2a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "NEUROBIOLOGY/Глутаматные рецепторы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -164,6 +223,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "09.11.2026.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -208,7 +268,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +288,32 @@
   "active": "35df87979f231079",
   "lastOpenFiles": [
     "staff-only/pages/homepage.md",
+    "Lab4.md",
+    "Untitled.md",
+    "NEUROBIOLOGY/Кальциевые каналы.md",
+    "NEUROBIOLOGY/Открытие, закрытие и инактивация.md",
+    "NEUROBIOLOGY/Лиганд-зависимые каналы.md",
+    "NEUROBIOLOGY/К-каналы 4TM-2P.md",
+    "NEUROBIOLOGY/Глутаматные рецепторы.md",
+    "NEUROBIOLOGY/Калиевые каналы.md",
+    "NEUROBIOLOGY/Хлорные каналы.md",
+    "NEUROBIOLOGY/Коннексоны.md",
+    "NEUROBIOLOGY/Натриевые каналы.md",
+    "NEUROBIOLOGY/Аквапорины.md",
+    "NEUROBIOLOGY/core-concepts-nb.md",
+    "NEUROBIOLOGY/Везикулярный транспорт.md",
+    "Genetics 1.md",
+    "staff-only/еvents/09.11.2026.md",
+    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
+    "BIOPHYSICS/planned-bph.md",
+    "GENETICS/planned-g.md",
+    "NEUROBIOLOGY/planned-nb.md",
+    "NEUROBIOLOGY/Метаботропные рецепторы.md",
+    "NEUROBIOLOGY/Стретч-каналы.md",
+    "GENETICS/Labs/3. Основы статистики.md",
+    "NEUROBIOLOGY/К-каналы 6ТМ-1Р.md",
+    "GENETICS/Labs/2. Питательные среды для культивирования дрозофил.md",
+    "staff-only/pages/Доклад элонгация терминация.md",
     "Untitled.md",
     "Untitled 1.md",
     "staff-only/pages/Доклад элонгация терминация.md",

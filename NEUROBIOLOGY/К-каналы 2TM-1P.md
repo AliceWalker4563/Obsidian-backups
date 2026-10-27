@@ -1,17 +1,11 @@
 ---
 subject:
   - molecular-neuro
-  - cytology
-topic:
-  - channels
 type:
   - molecule-scale-structure
   - protein
-tags:
-  - review
-sr-due: 2026-10-12
-sr-interval: 2
-sr-ease: 248
+topic:
+  - channels
 ---
 #### Классические Kir (Kir2)
 

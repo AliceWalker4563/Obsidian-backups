@@ -12,4 +12,5 @@
 missed:
 - 1 microbiology lecture,
 - 1 neurobiology seminar,
-- 1 neurobiology lecture.
+- 1 neurobiology lecture,
+- 2 applied neuro lectures

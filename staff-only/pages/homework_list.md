@@ -1,11 +1,9 @@
 ## Deadlines
 
-**12.10.26** English text CVS to be ready
-**13.03.26** Контрольная по органеллам: строение и функции. Тест + открытый вопрос. Дополнить знания из цитологии физиологией растений
-**15.10.26** По генетике составить задачку о своей родословной со схемой, условием и решением
-**16.10.26** Контрольная мембрана
+
 
 ## No certain date (yet)
 
-Neurobiology presentation. 9. Белки mTOR. Сигнальные системы TORC1 и TORC2. Строение, функции
-Biophysics cw?????
+- Neurobiology presentation. 9. Белки mTOR. Сигнальные системы TORC1 и TORC2. Строение, функции
+- Neurophysiology notes into paper
+- Отчет biophysics

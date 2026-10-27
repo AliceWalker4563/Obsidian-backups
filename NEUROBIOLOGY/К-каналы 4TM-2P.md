@@ -1,17 +1,11 @@
 ---
 subject:
   - molecular-neuro
-  - cytology
+topic:
+  - channels
 type:
   - molecule-scale-structure
   - protein
-topic:
-  - channels
-tags:
-  - review
-sr-due: 2026-10-12
-sr-interval: 2
-sr-ease: 248
 ---
 4ТМ/2Р - каналы утечки (К2Р). Они создают фоновый, слабо регулируемый ток К$^+$ наружу. Удерживают потенциал в районе -70-90 мВ, управляют порогом возбудимости.
 
