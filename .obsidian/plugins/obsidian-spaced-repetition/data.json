@@ -22,7 +22,7 @@
     "multilineCardEndMarker": "",
     "enableReviewReminders": false,
     "reviewReminderIntervalMinutes": 5,
-    "reviewReminderCheckOnStartup": true,
+    "reviewReminderCheckOnStartup": false,
     "reviewReminderMessage": "",
     "reviewReminderAutoOpen": true,
     "reviewReminderShowNotice": true,
@@ -32,9 +32,7 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteTagsToIgnore": [
-      "#finish"
-    ],
+    "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
@@ -65,7 +63,7 @@
     "openViewInNewTabMobile": false,
     "useCustomHotkeys": false,
     "useCalloutsForSchedulingComments": false,
-    "algorithm": "FSRS",
+    "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
@@ -79,10 +77,10 @@
     "scheduleDataVaultLocation": "Spaced Repetition",
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false,
-    "preferredDateFormatForNoteReviewQueue": "DD MM YYYY",
+    "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-11-02",
+  "buryDate": "2026-11-04",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

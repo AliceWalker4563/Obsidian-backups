@@ -1,85 +1,54 @@
 {
   "main": {
-    "id": "e33decf612da1f52",
+    "id": "2bd197491e2f7360",
     "type": "split",
     "children": [
       {
-        "id": "11bbebe5d4d9ea24",
+        "id": "c1a111ea2a17b841",
         "type": "tabs",
         "children": [
           {
-            "id": "c6777c0d53d0fe27",
+            "id": "cb63b0f880bd7938",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLANT PHYSIOLOGY/colloq1/9. Осмос, Уршпрунг.md",
-                "mode": "source",
+                "file": "staff-only/pages/homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "9. Осмос, Уршпрунг"
-              "title": "Lab4"
+              "title": "homepage"
             }
           },
           {
-            "id": "a2cbc2bec748b5df",
+            "id": "643b7e513d62f25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab4.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab4"
-        "id": "cb645a9661178687",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35df87979f231079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "159d0ed68a011fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dcf1a3d9c1f4d104",
+    "id": "126e368900b9ebcd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b1f42c824b1aa7f9",
+        "id": "0b238214407611c5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -94,7 +63,7 @@
         }
       },
       {
-        "id": "048987bcd8239310",
+        "id": "2fbc819c65e61378",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -108,7 +77,7 @@
         }
       },
       {
-        "id": "091bdefc8bd76336",
+        "id": "09cc279d2359a31c",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -124,16 +93,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3a0a2d526a01b25a",
+    "id": "b472d38548aa521f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdbbb05e95aa136d",
+        "id": "a0aa625f2f33c9d9",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
+            "file": "Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -142,12 +111,12 @@
         }
       },
       {
-        "id": "903dd6a35b569f48",
+        "id": "d7cabd417a573733",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
+            "file": "Untitled 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,7 +126,7 @@
         }
       },
       {
-        "id": "2721cc7f9395e5d1",
+        "id": "709a18027c489acc",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -167,23 +136,7 @@
         }
       },
       {
-        "id": "01b89c93e1572647",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "staff-only/pages/homepage.md",
-            "mode": "preview",
-            "source": false,
-            "backlinks": false
-          },
-          "icon": "lucide-file",
-          "title": "homepage"
-        }
-      },
-      {
-        "id": "ed510a4ade1705b3",
-        "id": "6d2a35901c1e2efb",
+        "id": "7b2390716c621e25",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -193,7 +146,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,108 +163,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c6777c0d53d0fe27",
+  "active": "643b7e513d62f25b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "PLANT PHYSIOLOGY/Введение.md",
-    "PLANT PHYSIOLOGY/colloq1/9. Осмос, Уршпрунг.md",
-    "PLANT PHYSIOLOGY/planned-pph-1.md",
-    "PLANT PHYSIOLOGY/colloq1/15. Нижний двигатель.md",
-    "PLANT PHYSIOLOGY/colloq1/14. Водный баланс.md",
-    "PLANT PHYSIOLOGY/colloq1/13. Состояние воды.md",
-    "staff-only/рics/Screenshot_2026-10-29-14-25-43-534_cn.wps.moffice_eng-edit.jpg",
-    "PLANT PHYSIOLOGY/colloq1/18. Транспирация.md",
-    "PLANT PHYSIOLOGY/colloq1/16. Верхний двигатель.md",
-    "PLANT PHYSIOLOGY/colloq1/12. Вода.md",
-    "PLANT PHYSIOLOGY/colloq1/2. Органические и неорганические вещества.md",
-    "PLANT PHYSIOLOGY/colloq1/11. Органеллы.md",
-    "PLANT PHYSIOLOGY/colloq1/10. Проницамость.md",
-    "PLANT PHYSIOLOGY/colloq1/8. Осмос.md",
-    "PLANT PHYSIOLOGY/colloq1/7. Диффузия, закон Фика.md",
-    "PLANT PHYSIOLOGY/colloq1/6. Эластичность, плазмолиз.md",
-    "PLANT PHYSIOLOGY/colloq1/5. Электрические свойства.md",
-    "PLANT PHYSIOLOGY/colloq1/4. Коллоидные свойства.md",
-    "PLANT PHYSIOLOGY/colloq1/3. Мембрана.md",
-    "PLANT PHYSIOLOGY/(2) Биологическая мембрана.md",
-    "PLANT PHYSIOLOGY/colloq1/1. Химический состав и элементы.md",
-    "GENETICS/Labs/4. Морфологические мутации у дрозофилы.md",
-    "GENETICS/Labs/Requirements.md",
-    "Лаба2.md",
-    "staff-only/рics/IMG_20261029_132203.jpg",
-    "staff-only/рics/IMG_20261029_132226.jpg",
-    "MOLECULAR BIOLOGY/Хеликаза.md",
-    "MOLECULAR BIOLOGY/ДНК-полимераза III.md"
-    "staff-only/pages/homepage.md",
-    "Lab4.md",
-    "Untitled.md",
-    "NEUROBIOLOGY/Кальциевые каналы.md",
-    "NEUROBIOLOGY/Открытие, закрытие и инактивация.md",
-    "NEUROBIOLOGY/Лиганд-зависимые каналы.md",
-    "NEUROBIOLOGY/К-каналы 4TM-2P.md",
-    "NEUROBIOLOGY/Глутаматные рецепторы.md",
-    "NEUROBIOLOGY/Калиевые каналы.md",
-    "NEUROBIOLOGY/Хлорные каналы.md",
-    "NEUROBIOLOGY/Коннексоны.md",
-    "NEUROBIOLOGY/Натриевые каналы.md",
-    "NEUROBIOLOGY/Аквапорины.md",
-    "NEUROBIOLOGY/core-concepts-nb.md",
-    "NEUROBIOLOGY/Везикулярный транспорт.md",
-    "Genetics 1.md",
-    "staff-only/еvents/09.11.2026.md",
-    "NEUROPHYSIOLOGY/1. Сенсорные системы.md",
-    "BIOPHYSICS/planned-bph.md",
-    "GENETICS/planned-g.md",
-    "NEUROBIOLOGY/planned-nb.md",
-    "NEUROBIOLOGY/Метаботропные рецепторы.md",
-    "NEUROBIOLOGY/Стретч-каналы.md",
-    "GENETICS/Labs/3. Основы статистики.md",
-    "NEUROBIOLOGY/К-каналы 6ТМ-1Р.md",
-    "GENETICS/Labs/2. Питательные среды для культивирования дрозофил.md",
-    "staff-only/pages/Доклад элонгация терминация.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "staff-only/pages/Доклад элонгация терминация.md",
-    "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
-    "staff-only/рics/Pasted image 20261006153037.png",
-    "staff-only/рics/Pasted image 20261006151132.png",
-    "staff-only/рics/Pasted image 20261002173344.png",
-    "staff-only/рics/Pasted image 20261002172933.png",
-    "staff-only/рics/Pasted image 20261002171442.png",
-    "staff-only/рics/Pasted image 20261001185724.png",
-    "staff-only/рics/Drawing 2026-09-30 19.07.49.excalidraw 1.png",
-    "staff-only/еvents/16.10.2026.md",
-    "staff-only/еvents/09.10.2026.md",
-    "staff-only/еvents",
-    "staff-only/total-topics-list.md",
-    "staff-only/pages/Requirements.md",
-    "staff-only/ARCHIVED/MATH/linear-algebra.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Эпителии.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Эмбриональный гемопоэз.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Эмбриогенез повторяет филогенез.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Эволюция костной ткани.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Щитовидная железа.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Чешуя рыб.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Хрящ.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Фотофоры рыб.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Формирование зуба.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Тромбоциты и тромбообразование.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Ткань.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Ткани внутренней среды.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Строение нейрона.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Строение зуба.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Спинальный ганглий.md",
-    "staff-only/ARCHIVED/HISTOLOGY/Соединения костей.md",
-    "staff-only/ARCHIVED/MATH",
-    "staff-only/ARCHIVED/HISTOLOGY",
-    "staff-only/ARCHIVED/ENGLISH",
-    "staff-only/ARCHIVED",
-    "staff-only/рics/Drawing 2026-09-27 10.08.48.excalidraw.png",
-    "GENETICS/Labs",
-    "Drawing 2026-09-27 10.08.48.excalidraw.png",
-    "staff-only/рics/Pasted image 20260926180843.png",
-    "NEUROBIOLOGY",
-    "HISTOLOGY",
-    "APPLIED NEUROBIOLOGY/seminars",
-    "APPLIED NEUROBIOLOGY/lectures"
+    "staff-only/pages/homepage.md"
   ]
 }
