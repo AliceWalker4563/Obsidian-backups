@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "9. Уршпрунг"
             }
+          },
+          {
+            "id": "db150455d10a2be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mTOR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "mTOR"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,15 +260,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "387f892b1d546a5d",
+  "active": "db150455d10a2be4",
   "lastOpenFiles": [
+    "staff-only/рics/Pasted image 20261105124134.png",
+    "mTOR.md",
+    "mTOR.md",
+    "staff-only/pages/homepage.md",
+    "PLANT PHYSIOLOGY/colloq1/9. Уршпрунг.md",
     "PLANT PHYSIOLOGY/colloq1/18. Транспирация.md",
     "PLANT PHYSIOLOGY/colloq1/16. Верхний двигатель.md",
     "PLANT PHYSIOLOGY/colloq1/15. Нижний двигатель.md",
     "staff-only/pages/homework_list.md",
-    "mTOR.md",
     "staff-only/tasks/Отчет_биофиз_2nd.md",
-    "staff-only/pages/homepage.md",
     "ифслгзы.md",
     "Untitled 1.md",
     "MICROBIOLOGY/Капсула бактерий.md",
@@ -266,14 +284,11 @@
     "staff-only/pages/todo.md",
     "PLANT PHYSIOLOGY/colloq1/14. Водный баланс.md",
     "PLANT PHYSIOLOGY/colloq1/13. Состояние воды.md",
-    "PLANT PHYSIOLOGY/colloq1/9. Уршпрунг.md",
     "PLANT PHYSIOLOGY/planned-pph-1.md",
     "PLANT PHYSIOLOGY/colloq1/8. Осмос.md",
     "PLANT PHYSIOLOGY/colloq1/12. Вода.md",
     "staff-only/еxcalidrawings/Drawing 2026-11-01 10.37.15.excalidraw.md",
     "staff-only/рics/Drawing 2026-11-01 10.37.15.excalidraw.png",
-    "PLANT PHYSIOLOGY/colloq1/11. Органеллы.md",
-    "PLANT PHYSIOLOGY/Органеллы растений.md",
     "PLANT PHYSIOLOGY/colloq1",
     "staff-only/рics/Pasted image 20261014175955.png",
     "staff-only/рics/Pasted image 20261014175947.png",

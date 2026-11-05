@@ -18,5 +18,8 @@
 
 ![[planned-g]]
 
-## Applied neurobiology
 ## Plant physiology
+
+![[planned-pph-1]]
+
+## Applied neurobiology 
