@@ -4,85 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a111ea2a17b841",
+        "id": "9988a2250ed6a3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "cb63b0f880bd7938",
+            "id": "08543f98bb2e1582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOLECULAR BIOLOGY/planned-mb.md",
+                "file": "PLANT PHYSIOLOGY/colloq1/8. Осмос.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "planned-mb"
+              "title": "8. Осмос"
             }
           },
           {
-            "id": "0c86cdb9f2cc2262",
+            "id": "60da09f22eca1998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOLECULAR BIOLOGY/planned-mb.md",
+                "file": "PLANT PHYSIOLOGY/colloq1/15. Нижний двигатель.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "planned-mb"
-            }
-          },
-          {
-            "id": "5e31eb62da0af024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOLECULAR BIOLOGY/planned-mb.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "planned-mb"
-            }
-          },
-          {
-            "id": "3bd0f1aa6bea0205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лаба2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Лаба2"
-            }
-          },
-          {
-            "id": "643b7e513d62f25b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "15. Нижний двигатель"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +163,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3bd0f1aa6bea0205",
+  "active": "60da09f22eca1998",
   "lastOpenFiles": [
+    "PLANT PHYSIOLOGY/colloq1/14. Водный баланс.md",
+    "PLANT PHYSIOLOGY/colloq1/13. Состояние воды.md",
+    "PLANT PHYSIOLOGY/colloq1/12. Вода.md",
     "staff-only/pages/homepage.md",
+    "PLANT PHYSIOLOGY/colloq1/8. Осмос.md",
+    "PLANT PHYSIOLOGY/colloq1/7. Диффузия, закон Фика.md",
+    "PLANT PHYSIOLOGY/colloq1/6. Вязкость, плазмолиз.md",
+    "PLANT PHYSIOLOGY/colloq1/5. Электрические свойства.md",
+    "PLANT PHYSIOLOGY/colloq1/4. Коллоидные свойства.md",
+    "PLANT PHYSIOLOGY/colloq1/3. Мембрана.md",
+    "PLANT PHYSIOLOGY/colloq1/2. Органические и неорганические вещества.md",
+    "mTOR.md",
     "MOLECULAR BIOLOGY/planned-mb.md",
     "MOLECULAR BIOLOGY/История.md",
     "MOLECULAR BIOLOGY/Введение.md",
-    "PLANT PHYSIOLOGY/colloq1/6. Вязкость, плазмолиз.md",
     "Лаба2.md",
     "Untitled 1.md",
     "Untitled.md"
