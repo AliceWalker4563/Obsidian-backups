@@ -1,18 +1,3 @@
----
-subject:
-  - molbio
-topic:
-  - replication
-  - prokaryote
-type:
-  - DNA-related
-  - protein
-tags:
-  - review
-sr-due: 2026-10-20
-sr-interval: 13
-sr-ease: 270
----
 # SSB-белки
 ## Структура
 
