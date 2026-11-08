@@ -38,33 +38,18 @@
             }
           },
           {
-            "id": "c78aa6b012a786b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEUROBIOLOGY/todo_mnb/Промежуточные филаменты.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промежуточные филаменты"
-            }
-          },
-          {
             "id": "1559af56dccc2b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "staff-only/pages/homepage.md",
+                "file": "MOLECULAR BIOLOGY/colloq/5. Вторичная структура.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "5. Вторичная структура"
             }
           },
           {
@@ -128,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,34 +240,44 @@
   },
   "active": "1559af56dccc2b02",
   "lastOpenFiles": [
-    "NEUROBIOLOGY/todo_mnb/Промежуточные филаменты.md",
+    "MOLECULAR BIOLOGY/colloq/4. Нуклеотиды.md",
+    "MOLECULAR BIOLOGY/colloq/5. Вторичная структура.md",
+    "MOLECULAR BIOLOGY/colloq/1. Введение.md",
+    "MOLECULAR BIOLOGY/colloq/3. Первичная структура.md",
     "staff-only/pages/homepage.md",
-    "NEUROBIOLOGY/todo_mnb/Митохондрии.md",
-    "NEUROBIOLOGY/todo_mnb/Микрофиламенты.md",
+    "staff-only/еvents/20.01.2027.md",
+    "staff-only/еvents/16.01.2027.md",
+    "staff-only/еvents/12.01.2027.md",
+    "staff-only/рics/tau.jpg",
+    "staff-only/рics/spar.jpg",
+    "staff-only/рics/sin.jpg",
+    "staff-only/рics/Pasted image 20261107083040.png",
+    "staff-only/рics/nuke.jpg",
+    "staff-only/рics/IMG_20261107_155940.jpg",
+    "staff-only/рics/endo.jpg",
+    "staff-only/рics/desrib.jpg",
+    "staff-only/рics/bases.jpg",
+    "staff-only/еvents/20.11.2026.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Элонгация репликации.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Хеликаза.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Терминация репликации.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Созревание фрагментов Оказаки.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Праймаза.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Петля репликации и модель тромбона.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Декатенация и разрешение димеров.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/ДНК-полимераза III.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/ДНК-полимераза I.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Гираза.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/Белки элонгации репликации.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот/SSB-белки.md",
+    "MOLECULAR BIOLOGY/Репликация прокариот",
+    "MOLECULAR BIOLOGY/planned-mb-det.md",
+    "MOLECULAR BIOLOGY/colloq/8. РНК.md",
+    "MOLECULAR BIOLOGY/colloq/7. Топология ДНК.md",
+    "MOLECULAR BIOLOGY/colloq/6. Неканоничные пары и структуры.md",
+    "MOLECULAR BIOLOGY/colloq/2. История.md",
+    "MOLECULAR BIOLOGY/colloq",
     "NEUROBIOLOGY/todo_mnb",
-    "NEUROBIOLOGY/todo_mnb/Микротрубочки.md",
-    "staff-only/рics/IMG_20261106_093821.jpg",
-    "Lab.md",
-    "PLANT PHYSIOLOGY/Когезия-адгезия.md",
-    "PLANT PHYSIOLOGY/ВКД.md",
-    "PLANT PHYSIOLOGY/Плач и гуттация.md",
-    "PLANT PHYSIOLOGY/НКД.md",
-    "PLANT PHYSIOLOGY/Вода почвы.md",
-    "PLANT PHYSIOLOGY/Состояние воды в клетке.md",
-    "PLANT PHYSIOLOGY/Осмотические показатели. Потенциалы.md",
-    "PLANT PHYSIOLOGY/colloq1/12. Вода.md",
-    "PLANT PHYSIOLOGY/colloq1/10. Проницамость.md",
-    "PLANT PHYSIOLOGY/Осмос. История изучения.md",
-    "PLANT PHYSIOLOGY/Закон Фика.md",
-    "PLANT PHYSIOLOGY/Плазмолиз, цитториз.md",
-    "PLANT PHYSIOLOGY/Вязкость, текучесть, эластичность цитоплазмы.md",
-    "staff-only/mTOR.md",
-    "PLANT PHYSIOLOGY/colloq1/18. Транспирация.md",
-    "PLANT PHYSIOLOGY/Золь-гель.md",
-    "PLANT PHYSIOLOGY/colloq1/5. Электрические свойства.md",
-    "PLANT PHYSIOLOGY/planned-pph-1.md",
-    "PLANT PHYSIOLOGY/Мембрана.md",
-    "PLANT PHYSIOLOGY/Органические и неорганические вещества.md",
-    "staff-only/рics/Pasted image 20261105124134.png"
+    "staff-only/рics/IMG_20261106_093821.jpg"
   ]
 }
