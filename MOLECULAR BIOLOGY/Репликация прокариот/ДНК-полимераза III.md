@@ -1,19 +1,3 @@
----
-subject:
-  - molbio
-topic:
-  - replication
-  - prokaryote
-type:
-  - DNA-related
-  - enzyme
-  - protein
-tags:
-  - review
-sr-due: 2026-10-13
-sr-interval: 6
-sr-ease: 230
----
 # ДНК-полимераза III
 ![[e6b2835b-7bfc-45da-9306-3e9ff75d5014.jpg|514]]
 
