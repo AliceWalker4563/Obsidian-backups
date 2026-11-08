@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ee91b8861fcee40",
+            "id": "8ef86b8ae6695b8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEUROBIOLOGY/Цитоскелет, митохондрии/Промежуточные филаменты.md",
-                "mode": "source",
+                "file": "MOLECULAR BIOLOGY/planned-mb.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Промежуточные филаменты"
+              "title": "planned-mb"
             }
           }
         ]
@@ -74,99 +74,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f98ce6d868e263f",
+        "id": "bb19f29f00be9ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "79236e2273399373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/todo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "e1e0368a14f35c27",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "be399ae190fcb2e7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "f4220e5ca5ea704e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "REPRODUCTIVE BIOLOGY/Яичник и фолликулы.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5171a21c49f13a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "54955942b13061fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/todo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "362e7948ccd36fb4",
+            "id": "27fd2b775b85c0cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,8 +92,7 @@
               "title": "todo"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "3406997ba784cfb1",
@@ -234,23 +145,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ee91b8861fcee40",
+  "active": "8ef86b8ae6695b8d",
   "lastOpenFiles": [
+    "MOLECULAR BIOLOGY/colloq/6. Неканоничные пары и структуры.md",
+    "MOLECULAR BIOLOGY/colloq/5. Вторичная структура.md",
+    "staff-only/рics/Pasted image 20261108100651.png",
+    "MOLECULAR BIOLOGY/planned-mb.md",
+    "MOLECULAR BIOLOGY/colloq/3. Первичная структура.md",
+    "staff-only/pages/todo.md",
+    "staff-only/pages/homepage.md",
+    "NEUROBIOLOGY/Цитоскелет, митохондрии/Микротрубочки.md",
+    "NEUROBIOLOGY/Цитоскелет, митохондрии/Промежуточные филаменты.md",
     "staff-only/рics/IMG_20261107_155940.jpg",
     "NEUROBIOLOGY/Цитоскелет, митохондрии/Митохондрии.md",
     "NEUROBIOLOGY/Цитоскелет, митохондрии/Микрофиламенты.md",
-    "NEUROBIOLOGY/Цитоскелет, митохондрии/Микротрубочки.md",
     "NEUROBIOLOGY/planned-nb.md",
     "NEUROBIOLOGY/Мембрана, каналы/Аквапорины.md",
     "NEUROBIOLOGY/Мембрана, каналы/К-каналы 4TM-2P.md",
     "NEUROBIOLOGY/Мембрана, каналы",
     "MOLECULAR BIOLOGY/planned-mb-det.md",
-    "staff-only/pages/todo.md",
-    "MOLECULAR BIOLOGY/planned-mb.md",
-    "MOLECULAR BIOLOGY/colloq/5. Вторичная структура.md",
     "MOLECULAR BIOLOGY/colloq/4. Нуклеотиды.md",
-    "MOLECULAR BIOLOGY/colloq/6. Неканоничные пары и структуры.md",
-    "MOLECULAR BIOLOGY/colloq/3. Первичная структура.md",
     "MOLECULAR BIOLOGY/colloq/2. История.md",
     "MOLECULAR BIOLOGY/colloq/1. Введение.md",
     "MOLECULAR BIOLOGY/colloq/8. РНК.md",
@@ -268,13 +182,9 @@
     "staff-only/рics/desrib.jpg",
     "staff-only/рics/endo.jpg",
     "staff-only/рics/nuke.jpg",
-    "MOLECULAR BIOLOGY/colloq/11. ПРО. Элонгация и терминация.md",
-    "MOLECULAR BIOLOGY/Репликация прокариот/Созревание фрагментов Оказаки.md",
     "MOLECULAR BIOLOGY/Репликация прокариот",
     "staff-only/рics/Pasted image 20261107083040.png",
     "MOLECULAR BIOLOGY/colloq",
-    "staff-only/рics/Pasted image 20261105124134.png",
-    "staff-only/рics/Drawing 2026-11-01 10.37.15.excalidraw.png",
     "PLANT PHYSIOLOGY/colloq1",
     "staff-only/ARCHIVED",
     "related-but-not-subject",
