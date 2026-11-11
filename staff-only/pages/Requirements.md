@@ -10,7 +10,22 @@
 | Applied neurobiology                   | V        | V    | -        |                                              | -                             |
 | Genetics                               | -/+      | V    | V        | 4/5 cw -> exam only theory no task           | Exam                          |
 missed:
-- 1 microbiology lecture,
+- 2 microbiology lectures,
 - 1 neurobiology seminar,
 - 1 neurobiology lecture,
-- 2 applied neuro lectures
+- 2 applied neuro lectures,
+- 1 english,
+- idk how many genetics?
+
+---
+
+| Biophysics                                 |
+| ------------------------------------------ |
+| Microbiology                               |
+| ~~Plant physiology~~                       |
+| Molecular biology 0/2                      |
+| ~~Reproductive and Developmental biology~~ |
+| Neurobiology 1/2                           |
+| ~~Neurophysiology~~                        |
+| Applied neurobiology ???                   |
+| ~~Genetics~~                               |

@@ -17,9 +17,3 @@
 ## Genetics
 
 ![[planned-g]]
-
-## Plant physiology
-
-![[planned-pph-1]]
-
-## Applied neurobiology 
