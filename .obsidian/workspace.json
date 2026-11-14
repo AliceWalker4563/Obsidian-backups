@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOLECULAR BIOLOGY/planned-mb.md",
+                "file": "MOLECULAR BIOLOGY/planned-mb-det.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "planned-mb"
+              "title": "planned-mb-det"
+            }
+          },
+          {
+            "id": "162594178257bf9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOLECULAR BIOLOGY/colloq/18. Белки репликации эукариот.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Белки репликации эукариот"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,45 +215,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "98422153edbec645",
+  "active": "162594178257bf9e",
   "lastOpenFiles": [
-    "MOLECULAR BIOLOGY/colloq/13. Геном эукариот.md",
-    "MOLECULAR BIOLOGY/colloq/16. Клеточный цикл.md",
-    "MOLECULAR BIOLOGY/colloq/14. Сигналинг. NOTCH.md",
-    "MOLECULAR BIOLOGY/planned-mb-det.md",
-    "MOLECULAR BIOLOGY/colloq/15. Wnt и NF-kB.md",
-    "MOLECULAR BIOLOGY/colloq/8. РНК.md",
-    "staff-only/pages/homepage.md",
-    "MOLECULAR BIOLOGY/colloq/12. Геном прокариот.md",
+    "MOLECULAR BIOLOGY/colloq/17. Репликация эукариот.md",
     "MOLECULAR BIOLOGY/colloq/10. Инициация репликации прокариот.md",
+    "MOLECULAR BIOLOGY/colloq/24. Гомологичная рекомбинация.md",
+    "MOLECULAR BIOLOGY/planned-mb-det.md",
+    "MOLECULAR BIOLOGY/colloq/23. Репарация двунитевых разрывов.md",
+    "MOLECULAR BIOLOGY/colloq/21. SOS, DDR, транслезионный синтез.md",
+    "MOLECULAR BIOLOGY/colloq/20. Эксцизионная репарация BER и NER.md",
+    "MOLECULAR BIOLOGY/colloq/18. Белки репликации эукариот.md",
+    "MOLECULAR BIOLOGY/colloq/13. Геном эукариот.md",
     "MOLECULAR BIOLOGY/planned-mb.md",
-    "MOLECULAR BIOLOGY/colloq/7. Топология ДНК.md",
-    "MOLECULAR BIOLOGY/colloq/9. Принципы репликации прокариот.md",
-    "staff-only/рics/rna.jpg",
-    "MOLECULAR BIOLOGY/colloq/19. Теломеры.md",
-    "staff-only/рics/telo.jpg",
-    "MOLECULAR BIOLOGY/Репликация прокариот/ДНК-полимераза III.md",
-    "MOLECULAR BIOLOGY/Репликация прокариот/Декатенация и разрешение димеров.md",
-    "MOLECULAR BIOLOGY/Репликация прокариот/ДНК-полимераза I.md",
-    "staff-only/total-topics-list.md",
-    "staff-only/pages/Requirements.md",
-    "staff-only/pages/how-to-DQL.md",
-    "staff-only/pages/homework_list.md",
-    "NEUROBIOLOGY/Цитоскелет, митохондрии/Микротрубочки.md",
-    "MOLECULAR BIOLOGY/colloq/5. Вторичная структура.md",
+    "MOLECULAR BIOLOGY/colloq/15. Wnt и NF-kB.md",
+    "MOLECULAR BIOLOGY/colloq/14. Сигналинг. NOTCH.md",
+    "MOLECULAR BIOLOGY/colloq/12. Геном прокариот.md",
+    "MOLECULAR BIOLOGY/colloq/16. Клеточный цикл.md",
     "MOLECULAR BIOLOGY/colloq/3. Первичная структура.md",
-    "MOLECULAR BIOLOGY/colloq/4. Нуклеотиды.md",
-    "MOLECULAR BIOLOGY/colloq/6. Неканоничные пары и структуры.md",
+    "staff-only/рics/Pasted image 20261114124918.png",
+    "staff-only/рics/Pasted image 20261114123121.png",
+    "staff-only/еvents/16.11.2026.md",
+    "staff-only/еvents/26.11.2026.md",
+    "staff-only/еvents/25.11.2026.md",
+    "staff-only/еvents/04.12.2026.md",
+    "staff-only/еvents/20.11.2026.md",
+    "NEUROBIOLOGY/Органоиды/Митохондрии.md",
+    "staff-only/pages/homepage.md",
+    "NEUROBIOLOGY/Мембрана, каналы/Лиганд-зависимые каналы.md",
+    "NEUROBIOLOGY/Мембрана, каналы/Глутаматные рецепторы.md",
+    "MOLECULAR BIOLOGY/colloq/8. РНК.md",
+    "MOLECULAR BIOLOGY/colloq/7. Топология ДНК.md",
+    "staff-only/рics/rna.jpg",
+    "staff-only/рics/telo.jpg",
     "staff-only/рics/Pasted image 20261108100651.png",
-    "staff-only/pages/todo.md",
     "staff-only/рics/IMG_20261107_155940.jpg",
     "NEUROBIOLOGY/Мембрана, каналы",
     "staff-only/рics/sin.jpg",
     "staff-only/рics/spar.jpg",
     "staff-only/рics/tau.jpg",
     "staff-only/рics/bases.jpg",
-    "staff-only/рics/desrib.jpg",
-    "staff-only/рics/endo.jpg",
     "MOLECULAR BIOLOGY/Репликация прокариот",
     "MOLECULAR BIOLOGY/colloq",
     "PLANT PHYSIOLOGY/colloq1",
