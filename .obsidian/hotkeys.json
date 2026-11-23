@@ -34,5 +34,13 @@
     }
   ],
   "workspace:goto-tab-3": [],
-  "workspace:goto-tab-2": []
+  "workspace:goto-tab-2": [],
+  "markdown:clear-metadata-properties": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }
