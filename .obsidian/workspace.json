@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c350cd919bfee73f",
+        "id": "a93b18104b8d2289",
         "type": "tabs",
         "children": [
           {
-            "id": "9b859bb7982c34e1",
+            "id": "dc0751e476919d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOPHYSICS/planned-bph.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "planned-bph"
-            }
-          },
-          {
-            "id": "01555ad0c3a42431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOPHYSICS/29. Деструктивное действие УФ.md",
+                "file": "NEUROBIOLOGY/Органоиды/Гольджи и лизосомы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "29. Деструктивное действие УФ"
+              "title": "Гольджи и лизосомы"
             }
           }
         ]
@@ -106,24 +91,8 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "60a9a521f0533c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staff-only/pages/pic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "pic"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3406997ba784cfb1",
@@ -172,48 +141,48 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
-      "widgets:Add widget": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "widgets:Add widget": false
     }
   },
-  "active": "87d095ba66671a80",
+  "active": "dc0751e476919d3d",
   "lastOpenFiles": [
+    "NEUROBIOLOGY/Органоиды/Митохондрии.md",
+    "NEUROBIOLOGY/Органоиды/Гольджи и лизосомы.md",
+    "NEUROBIOLOGY/Органоиды/VVV Промежуточные филаменты.md",
+    "staff-only/еvents/07.12.2026.md",
+    "staff-only/еvents/17.12.2026.md",
+    "staff-only/еvents/26.12.2026.md",
+    "staff-only/еvents/25.12.2026.md",
+    "staff-only/pages/homepage.md",
+    "staff-only/pages/todo.md",
+    "staff-only/pages/pic.md",
+    "Lab7.docx",
+    "Lab7.md",
+    "Lab6.md",
+    "staff-only/еvents/26.11.2026.md",
+    "BIOPHYSICS/TOTAL EQUATIONS LIST.md",
+    "BIOPHYSICS/29. Деструктивное действие УФ.md",
+    "BIOPHYSICS/3. Первый закон термодинамики.md",
+    "Untitled 1.md",
     "BIOPHYSICS/planned-bph.md",
     "BIOPHYSICS/(1) Термодинамика биологических процессов.md",
-    "BIOPHYSICS/29. Деструктивное действие УФ.md",
     "BIOPHYSICS/28. Фитохромы. Фототропизм.md",
     "ЗАДАЧИ СДВГ ЬЛЯТЬ.md",
     "BIOPHYSICS/27. Хемилюминесценция.md",
     "BIOPHYSICS/25. Восприятие кванта света и возникновение сигнала.md",
     "BIOPHYSICS/26. Механизмы прерывания сигнала и восстановление рецепторной системы.md",
-    "staff-only/pages/pic.md",
     "staff-only/рics/Pasted image 20261122130958.png",
     "BIOPHYSICS/24. FRET.md",
     "BIOPHYSICS/23. Флуоресценция.md",
-    "BIOPHYSICS/22. Cхема Яблонского.md",
-    "staff-only/еxcalidrawings/Drawing 2026-11-22 08.47.16.excalidraw.md",
     "staff-only/рics/Pasted image 20261122092003.png",
     "staff-only/рics/Pasted image 20261122085033.png",
     "staff-only/рics/Pasted image 20261122083023.png",
     "staff-only/рics/Pasted image 20261122082941.png",
     "staff-only/рics/Pasted image 20261122082732.png",
-    "BIOPHYSICS/21. Электромагнитное излучение.md",
     "staff-only/рics/Pasted image 20261122081407.png",
     "staff-only/рics/Pasted image 20261122081352.png",
     "staff-only/рics/Pasted image 20261122080940.png",
-    "BIOPHYSICS/20. Фотобиологические процессы.md",
-    "BIOPHYSICS/16. Проточный культиватор.md",
-    "BIOPHYSICS/15. Критерий Ляпунова.md",
-    "BIOPHYSICS/19. Триггерные свойства биосистем.md",
-    "BIOPHYSICS/4. Второй закон термодинамики.md",
     "staff-only/рics/DarkMatter_KipacAmnh_1200.jpg",
-    "BIOPHYSICS/TOTAL EQUATIONS LIST.md",
-    "staff-only/pages/todo.md",
-    "BIOPHYSICS/3. Первый закон термодинамики.md",
-    "BIOPHYSICS/14. Ингибирование - конкурентное и неконкурентное.md",
-    "NEUROBIOLOGY/Органоиды/V Промежуточные филаменты.md",
-    "BIOPHYSICS/2. Термодинамика.md",
-    "BIOPHYSICS/1. Предмет и задачи биофизики.md",
     "Lab6.docx",
     "Lab5.docx",
     "Lab4.docx",
@@ -222,7 +191,6 @@
     "Lab1.docx",
     "NEUROBIOLOGY/Мембрана, каналы",
     "MOLECULAR BIOLOGY/Репликация прокариот",
-    "MOLECULAR BIOLOGY/colloq",
-    "PLANT PHYSIOLOGY/colloq1"
+    "MOLECULAR BIOLOGY/colloq"
   ]
 }
