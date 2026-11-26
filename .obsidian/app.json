@@ -5,9 +5,9 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "staff-only/рics",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
+    "margin": "1",
     "downscalePercent": 100
   },
   "mobileToolbarCommands": [
